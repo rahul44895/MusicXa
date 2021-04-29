@@ -2,8 +2,8 @@
     "songs":
 
     [
-    {      "name":"Hislerim","add":"https://bit.ly/3xqzipl"    },    
-    {      "name":"O Re Piya","add":"https://bit.ly/3tTpWQL"    },
-    {      "name":"Shape Of You","add":"https://bit.ly/3gF1COO"    }
+    {      "song":"Hislerim","url":"https://bit.ly/3xqzipl"    },    
+    {      "song":"O Re Piya","url":"https://bit.ly/3tTpWQL"    },
+    {      "song":"Shape Of You","url":"https://bit.ly/3gF1COO"    }
   ]
 }
