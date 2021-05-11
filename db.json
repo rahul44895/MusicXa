@@ -2,18 +2,15 @@
     "songs":
 
     [
-    {      "song":"Hislerim",       "url":"https://bit.ly/3xqzipl"    ,"movie":"Kabhi","image":"https://bit.ly/3tDQ9ls"},    
-    {      "song":"O Re Piya",      "url":"https://bit.ly/3tTpWQL"    ,"movie":"Kabhi","image":"https://bit.ly/3fqywAz"},
-    {      "song":"Shape Of You",   "url":"https://bit.ly/3gF1COO" ,"movie":"Kabhi","image":"https://bit.ly/3o6oRmz"},
-    {      "song":"Fearless",       "url":"https://bit.ly/3aE73tz" ,"movie":"Kabhi","image":"https://bit.ly/2SEBxoV"},
-    
-    {      "song":"Lut Gaye (Jubin Nautiyal)",  "url":"https://bit.ly/32Pr23U" ,"movie":"Kabhi","image":"https://bit.ly/2RHYjvG"},
-    
-    {      "song":"Akh Lad Jaave",  "url":"http://dns2.vippendu.com/320k/34297/19360/Akh-Lad-Jaave--Loveratri--Jubin-Nautiyal-Asees-Kaur-Badshah.mp3"  ,"movie":"Kabhi"},
-    {      "song":"Wafa Na Raas Aayee",   "url":"https://paglasongs.com/files/download/type/320/id/2971" ,"movie":"Kabhi"},
-    {      "song":"Gali Gali Me Phirta Hai(KGF)",   "url":"https://pagalsong.in/uploads/systemuploads/mp3/KGF%20Chapter%201/Gali%20Gali%20-%20KGF%20128%20Kbps.mp3" ,"movie":"Kabhi"},
-    {      "song":"Tumhi Dekho Na (Kabhi Alvida Na Kehna)","url":"https://pagalsong.in/uploads/systemuploads/mp3/Kabhi%20Alvida%20Naa%20Kehna/Tumhi%20Dekho%20Naa%20-%20Kabhi%20Alvida%20Naa%20Kehna%20128%20Kbps.mp3","movie":"Kabhi"}
-        
+    {      "song":"Hislerim",                                "url":"https://bit.ly/3xqzipl" , "movie":"Kabhi",   "image":"https://bit.ly/3tDQ9ls"},    
+    {      "song":"O Re Piya",                               "url":"https://bit.ly/3tTpWQL" , "movie":"Kabhi",   "image":"https://bit.ly/3fqywAz"},
+    {      "song":"Shape Of You",                            "url":"https://bit.ly/3gF1COO" , "movie":"Kabhi",   "image":"https://bit.ly/3o6oRmz"},
+    {      "song":"Fearless",                                "url":"https://bit.ly/3aE73tz" , "movie":"Kabhi",   "image":"https://bit.ly/2SEBxoV"}, 
+    {      "song":"Lut Gaye (Jubin Nautiyal)",               "url":"https://bit.ly/32Pr23U" , "movie":"Kabhi",   "image":"https://bit.ly/2RHYjvG"}, 
+    {      "song":"Akh Lad Jaave",                           "url":"https://bit.ly/3vZWZTW" , "movie":"Kabhi",   "image":"https://bit.ly/3o73ZeK"},
+    {      "song":"Wafa Na Raas Aayee",                      "url":"https://bit.ly/3uL7LgE" , "movie":"Kabhi",   "image":"https://bit.ly/33ArJyt"},
+    {      "song":"Gali Gali Me Phirta Hai(KGF)",            "url":"https://bit.ly/3eCs6id" , "movie":"Kabhi",   "image":"https://bit.ly/33BwKH2"},
+    {      "song":"Tumhi Dekho Na (Kabhi Alvida Na Kehna)",  "url":"https://bit.ly/3eGeF14" , "movie":"Kabhi",   "image":"https://bit.ly/3eE5nlX"}    
     ],
     "testing":
     [
