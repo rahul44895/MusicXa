@@ -11,12 +11,12 @@
     {      "song":"Wafa Na Raas Aayee",                      "url":"https://bit.ly/3uL7LgE" , "movie":"Kabhi",   "image":"https://bit.ly/3hlmhaS"},
     {      "song":"Gali Gali Me Phirta Hai(KGF)",            "url":"https://bit.ly/3eCs6id" , "movie":"Kabhi",   "image":"https://bit.ly/3bfngWj"},
     {      "song":"Tumhi Dekho Na (Kabhi Alvida Na Kehna)",  "url":"https://bit.ly/3eGeF14" , "movie":"Kabhi",   "image":"https://bit.ly/2SKC7BG"},
-        
-        {"song":"Tum hi ho", "url":"https://bit.ly/3faxPLm" , "movie":" Aashiqui 2",  "image":"https://www.filmibeat.com/ph-big/2013/04/aashiqui-2-new-poster_13662514890.jpg" },
-{"song":"Nazm Nazm sa", "url":"https://bit.ly/3tKgYnU" , "movie":" Barfi",  "image":"https://binged.it/3hktR5r" },
-{"song":"Ae Mere Humsafar", "url":"https://bit.ly/2RNHrUt" , "movie":" Qayamat se Qyamat Tak",  "image":"https://binged.it/3uG2E1b" },
-{"song":"Tera Zikr", "url":"https://bit.ly/3bl0ufv" , "movie":"",  "image":"https://bit.ly/3tKi1nQ" },
-{"song":" Tum Saath Ho ", "url":"https://bit.ly/33DR22A" , "movie":"Tamasha",  "image":"https://bit.ly/3bnUTp0" }
+      
+    {       "song":"Tum hi ho",                              "url":"https://bit.ly/3vY8Gua" , "movie":" Aashiqui 2",  "image":"https://bit.ly/3w3vZTc" },
+    {       "song":"Nazm Nazm sa",                           "url":"https://bit.ly/3hjujkq" , "movie":" Barfi",       "image":"https://bit.ly/2QcS7eT" },
+    {       "song":"Ae Mere Humsafar",                       "url":"https://bit.ly/3vZzl9V" , "movie":" Qayamat se Qyamat Tak",  "image":"https://bit.ly/2QaEqgm" },
+    {       "song":"Tera Zikr",                              "url":"https://bit.ly/3uIC0ob" , "movie":"",             "image":"https://bit.ly/3tHS48z" },
+    {       "song":"Tum Saath Ho",                           "url":"https://bit.ly/2QcV5Qz" , "movie":"Tamasha",      "image":"https://bit.ly/2Q9Uu1Q" }
     ],
     "testing":
     [
