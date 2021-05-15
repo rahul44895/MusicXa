@@ -2,28 +2,33 @@
     "songs":
 
     [
-    {      "song":"Hislerim",                                "url":"https://bit.ly/3xqzipl" , "movie":"Kabhi",   "image":"https://bit.ly/3tDQ9ls"},    
-    {      "song":"O Re Piya",                               "url":"https://bit.ly/33EWS3G" , "movie":"Kabhi",   "image":"https://bit.ly/33xRGil"},
-    {      "song":"Shape Of You",                            "url":"https://bit.ly/3gF1COO" , "movie":"Kabhi",   "image":"https://bit.ly/3o6oRmz"},
-    {      "song":"Fearless",                                "url":"https://bit.ly/3aE73tz" , "movie":"Kabhi",   "image":"https://bit.ly/2SEBxoV"}, 
-    {      "song":"Lut Gaye (Jubin Nautiyal)",               "url":"https://bit.ly/32Pr23U" , "movie":"Kabhi",   "image":"https://bit.ly/2RHYjvG"}, 
-    {      "song":"Akh Lad Jaave",                           "url":"https://bit.ly/2RfGqnY" , "movie":"Kabhi",   "image":"https://bit.ly/3o73ZeK"},
-    {      "song":"Wafa Na Raas Aayee",                      "url":"https://bit.ly/3uL7LgE" , "movie":"Kabhi",   "image":"https://bit.ly/3hlmhaS"},
-    {      "song":"Gali Gali Me Phirta Hai(KGF)",            "url":"https://bit.ly/3eCs6id" , "movie":"Kabhi",   "image":"https://bit.ly/3bfngWj"},
-    {      "song":"Tumhi Dekho Na (Kabhi Alvida Na Kehna)",  "url":"https://bit.ly/3eGeF14" , "movie":"Kabhi",   "image":"https://bit.ly/2SKC7BG"},
-    {      "song":"On & On",                                 "url":"https://bit.ly/3aW0frp" , "movie":"Kabhi",   "image":"https://bit.ly/3uJSqNh"},
-    {      "song":"Let Me Love You",                         "url":"https://bit.ly/3euaTX7" , "movie":"Kabhi",   "image":"https://bit.ly/3eG3NjC"},
-    {      "song":"Mortals-Wariyo",                          "url":"https://bit.ly/3aEsvhU" , "movie":"Kabhi",   "image":"https://bit.ly/2Qb4LuG"},
-    {      "song":"Lost In Sound",                           "url":"https://bit.ly/3eJ6nnJ" , "movie":"Kabhi",   "image":"https://bit.ly/3o8iwac"},
-    {      "song":"Tokyo Drift",                             "url":"https://bit.ly/3u8L8Cr" , "movie":"Kabhi",   "image":"https://bit.ly/3fhkyk6"},
-    {      "song":"Scam 1992(theme)",                        "url":"https://bit.ly/2PlnTps" , "movie":"Kabhi",   "image":"https://bit.ly/3eFm8gx"},
+    {      "song":"Hislerim",                                "url":"https://bit.ly/3xqzipl" , "movie":"",   "image":"https://bit.ly/3tDQ9ls"},    
+    {      "song":"O Re Piya",                               "url":"https://bit.ly/33EWS3G" , "movie":"",   "image":"https://bit.ly/33xRGil"},
+    {      "song":"Shape Of You",                            "url":"https://bit.ly/3gF1COO" , "movie":"",   "image":"https://bit.ly/3o6oRmz"},
+    {      "song":"Fearless",                                "url":"https://bit.ly/3aE73tz" , "movie":"",   "image":"https://bit.ly/2SEBxoV"}, 
+    {      "song":"Lut Gaye (Jubin Nautiyal)",               "url":"https://bit.ly/32Pr23U" , "movie":"",   "image":"https://bit.ly/2RHYjvG"}, 
+    {      "song":"Akh Lad Jaave",                           "url":"https://bit.ly/2RfGqnY" , "movie":"",   "image":"https://bit.ly/3o73ZeK"},
+    {      "song":"Wafa Na Raas Aayee",                      "url":"https://bit.ly/3uL7LgE" , "movie":"",   "image":"https://bit.ly/3hlmhaS"},
+    {      "song":"Gali Gali Me Phirta Hai(KGF)",            "url":"https://bit.ly/3eCs6id" , "movie":"",   "image":"https://bit.ly/3bfngWj"},
+    {      "song":"Tumhi Dekho Na",                          "url":"https://bit.ly/3eGeF14" , "movie":"Kabhi Alvida Na Kehna",   "image":"https://bit.ly/2SKC7BG"},
+    {      "song":"On & On",                                 "url":"https://bit.ly/3aW0frp" , "movie":"",   "image":"https://bit.ly/3uJSqNh"},
+    {      "song":"Let Me Love You",                         "url":"https://bit.ly/3euaTX7" , "movie":"",   "image":"https://bit.ly/3eG3NjC"},
+    {      "song":"Mortals-Wariyo",                          "url":"https://bit.ly/3aEsvhU" , "movie":"",   "image":"https://bit.ly/2Qb4LuG"},
+    {      "song":"Lost In Sound",                           "url":"https://bit.ly/3eJ6nnJ" , "movie":"",   "image":"https://bit.ly/3o8iwac"},
+    {      "song":"Tokyo Drift",                             "url":"https://bit.ly/3u8L8Cr" , "movie":"Fast And Furious",   "image":"https://bit.ly/3fhkyk6"},
+    {      "song":"Scam 1992(theme)",                        "url":"https://bit.ly/2PlnTps" , "movie":"Scam 1992",   "image":"https://bit.ly/3eFm8gx"},
        
        
     {       "song":"Tum hi ho",                              "url":"https://bit.ly/3vY8Gua" , "movie":" Aashiqui 2",  "image":"https://bit.ly/3w3vZTc" },
     {       "song":"Nazm Nazm sa",                           "url":"https://bit.ly/3hjujkq" , "movie":" Barfi",       "image":"https://bit.ly/2QcS7eT" },
-    {       "song":"Ae Mere Humsafar",                       "url":"https://bit.ly/3yekHOf" , "movie":" Qayamat se Qyamat Tak",  "image":"https://bit.ly/2QaEqgm" },
+    {       "song":"Ae Mere Humsafar",                       "url":"https://bit.ly/3ycA5ul" , "movie":" Qayamat se Qyamat Tak",  "image":"https://bit.ly/2QaEqgm" },
+    {       "song":"Ae Mere Humsafar",                       "url":"https://bit.ly/33HTc19" , "movie":"All Is Well",  "image":"https://bit.ly/2QkcTZX" },        
     {       "song":"Tera Zikr",                              "url":"https://bit.ly/3uIC0ob" , "movie":"",             "image":"https://bit.ly/3tHS48z" },
-    {       "song":"Tum Saath Ho",                           "url":"https://bit.ly/2QcV5Qz" , "movie":"Tamasha",      "image":"https://bit.ly/2Q9Uu1Q" }
+    {       "song":"Tum Saath Ho",                           "url":"https://bit.ly/2QcV5Qz" , "movie":"Tamasha",      "image":"https://bit.ly/2Q9Uu1Q" },
+    {       "song":"Care Ni Karda",                          "url":"https://bit.ly/33IR3SS" , "movie":"Challang",     "image":"https://bit.ly/3tOxZxk" },
+    {       "song":"Thoda Thoda Pyar",                       "url":"https://bit.ly/3tOOnxZ" , "movie":"",             "image":"https://bit.ly/3bnDQmX" },
+    {       "song":"Memba",                                  "url":"https://bit.ly/2RnJxKF" , "movie":"The Sky Is Pink","image":"https://bit.ly/3fiVYzr" }
+    
         
     ],
     "testing":
