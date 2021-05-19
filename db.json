@@ -1,6 +1,6 @@
+[
 
-
-    [
+    
     {	"song":"Hislerim",				"url":"https://bit.ly/3xqzipl" ,	"movie":"", 	      			"image":"https://bit.ly/3tDQ9ls" ,	"artist":""			},    
     {	"song":"O Re Piya",				"url":"https://bit.ly/33EWS3G" ,	"movie":"",  				"image":"https://bit.ly/33xRGil" ,	"artist":""			},
     {	"song":"Shape Of You",				"url":"https://bit.ly/3gF1COO" ,	"movie":"",   				"image":"https://bit.ly/3o6oRmz" ,	"artist":""			},
@@ -49,22 +49,15 @@
     {	"song":"First Kiss",				"url":"https://bit.ly/3uXQTmI" ,	"movie":"" ,				"image":"https://bit.ly/3fw2lzk" ,	"artist":"Yo Yo Honey Singh"	},
     {	"song":"Makhna",				"url":"https://bit.ly/3tUnusk" ,	"movie":"" ,				"image":"https://bit.ly/3uZGsPy" ,	"artist":"Yo Yo Honey Singh"	},
 
-    {	"song":"Memba",					"url":"https://bit.ly/3eVfz9S" ,	"movie":"The Sky Is Pink",		"image":"https://bit.ly/3fjoK34" ,	"artist":""	},
+    {	"song":"Tujhe Kitna Chahne Lage",		"url":"https://bit.ly/3bGfkxp" ,	"movie":"Kabir Singh", 	      		"image":"https://bit.ly/33XiNmZ" ,	"artist":"Arjit Singh"			},
+    {	"song":"Shayad",				"url":"https://bit.ly/3bE83hP" ,	"movie":"Love Aaj Kal", 	      	"image":"https://bit.ly/3hzIYZ7" ,	"artist":"Arjit Singh"			},
+    {	"song":"Falling",				"url":"https://bit.ly/3ymQPiw" ,	"movie":"", 	      			"image":"https://bit.ly/3oHeohP" ,	"artist":"Trever Daniel"		},
+    {	"song":"Illegal Weapon 2.0",			"url":"https://bit.ly/3bzrpob" ,	"movie":"Street Dancer", 	      	"image":"https://bit.ly/3wdxq1u" ,	"artist":"Jasmine Sandlas, Garry Sandhu"},
+    {	"song":"Challa (Main Lad Jaana)",		"url":"https://bit.ly/3ym8fvD" ,	"movie":"URI", 	      			"image":"https://bit.ly/3oxtgil" ,	"artist":"Romy, Vivek Hariharan, Shashwat Sachdev"},
+    
+    {	"song":"Memba",					"url":"https://bit.ly/3eVfz9S" ,	"movie":"The Sky Is Pink",		"image":"https://bit.ly/3fjoK34" ,	"artist":""	}
+];
     
         
-    {	"song":"Hislerim",				"url":"https://bit.ly/3xqzipl" ,	"movie":"", 	      			"image":"https://bit.ly/3tDQ9ls" ,	"artist":""			},    
-    {	"song":"O Re Piya",				"url":"https://bit.ly/33EWS3G" ,	"movie":"",  				"image":"https://bit.ly/33xRGil" ,	"artist":""			},
-    {	"song":"Shape of You",				"url":"https://bit.ly/3osRzy2" ,	"movie":"",  				"image":"https://bit.ly/3yl77bH" ,	"artist":"Ed Sheeran"		},
-
-    {	"song":"Hislerim",				"url":"https://bit.ly/3xqzipl" ,	"movie":"", 	      			"image":"https://bit.ly/3tDQ9ls" ,	"artist":""			},    
-    {	"song":"O Re Piya",				"url":"https://bit.ly/33EWS3G" ,	"movie":"",  				"image":"https://bit.ly/33xRGil" ,	"artist":""			},
-    {	"song":"Shape of You",				"url":"https://bit.ly/3osRzy2" ,	"movie":"",  				"image":"https://bit.ly/3yl77bH" ,	"artist":"Ed Sheeran"		},
-    {	"song":"First Kiss",				"url":"https://bit.ly/3ovq86O" ,	"movie":"",  				"image":"https://bit.ly/3whWKUm" ,	"artist":"Yo Yo Honey Star"	}
-
-    {	"song":"Tujhe Kitna Chahne Lage",		"url":"https://bit.ly/3veBTRq" ,	"movie":"Kabir Singh", 	      		"image":"https://bit.ly/33XiNmZ" ,	"artist":"Arjit Singh"			},
-    {	"song":"Shayad",						"url":"https://bit.ly/3whkpUF" ,	"movie":"Love Aaj Kal", 	      	"image":"https://bit.ly/3hzIYZ7" ,	"artist":"Arjit Singh"			},
-    {	"song":"Falling",						"url":"https://bit.ly/2RnrX9V" ,	"movie":"", 	      				"image":"https://bit.ly/3oHeohP" ,	"artist":"Trever Daniel"		},
-    {	"song":"Illegal Weapon 2.0",			"url":"https://bit.ly/3wfYWvq" ,	"movie":"Street Dancer", 	      	"image":"https://bit.ly/3wdxq1u" ,	"artist":"Garry Sandhu"			},
-    {	"song":"Challa",						"url":"https://bit.ly/2T5hvUT" ,	"movie":"URI", 	      				"image":"https://bit.ly/3oxtgil" ,	"artist":"Shaswat Sachved"		}
-    ];
+    
     
