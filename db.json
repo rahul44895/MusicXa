@@ -61,6 +61,11 @@
     {	"song":"Shape of You",				"url":"https://bit.ly/3osRzy2" ,	"movie":"",  				"image":"https://bit.ly/3yl77bH" ,	"artist":"Ed Sheeran"		},
     {	"song":"First Kiss",				"url":"https://bit.ly/3ovq86O" ,	"movie":"",  				"image":"https://bit.ly/3whWKUm" ,	"artist":"Yo Yo Honey Star"	}
 
-        
+    {	"song":"Tujhe Kitna Chahne Lage",		"url":"https://bit.ly/3veBTRq" ,	"movie":"Kabir Singh", 	      		"image":"https://bit.ly/33XiNmZ" ,	"artist":"Arjit Singh"			},
+    {	"song":"Makhna",						"url":"https://bit.ly/3eWJQVP" ,	"movie":"Drive", 	      			"image":"https://bit.ly/3wix9dY" ,	"artist":"Tanishk Bagchi"		},
+    {	"song":"Shayad",						"url":"https://bit.ly/3whkpUF" ,	"movie":"Love Aaj Kal", 	      	"image":"https://bit.ly/3hzIYZ7" ,	"artist":"Arjit Singh"			},
+    {	"song":"Falling",						"url":"https://bit.ly/2RnrX9V" ,	"movie":"", 	      				"image":"https://bit.ly/3oHeohP" ,	"artist":"Trever Daniel"		},
+    {	"song":"Illegal Weapon 2.0",			"url":"https://bit.ly/3wfYWvq" ,	"movie":"Street Dancer", 	      	"image":"https://bit.ly/3wdxq1u" ,	"artist":"Garry Sandhu"			},
+    {	"song":"Challa",						"url":"https://bit.ly/2T5hvUT" ,	"movie":"URI", 	      				"image":"https://bit.ly/3oxtgil" ,	"artist":"Shaswat Sachved"		}
     ];
     
