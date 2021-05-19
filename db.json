@@ -1,47 +1,56 @@
-{
-    "songs":
+
 
     [
-    {      "song":"Hislerim",                                "url":"https://bit.ly/3xqzipl" , "movie":"",   "image":"https://bit.ly/3tDQ9ls"},    
-    {      "song":"O Re Piya",                               "url":"https://bit.ly/33EWS3G" , "movie":"",   "image":"https://bit.ly/33xRGil"},
-    {      "song":"Shape Of You",                            "url":"https://bit.ly/3gF1COO" , "movie":"",   "image":"https://bit.ly/3o6oRmz"},
-    {      "song":"Fearless",                                "url":"https://bit.ly/3aE73tz" , "movie":"",   "image":"https://bit.ly/2SEBxoV"}, 
-    {      "song":"Lut Gaye (Jubin Nautiyal)",               "url":"https://bit.ly/32Pr23U" , "movie":"",   "image":"https://bit.ly/2RHYjvG"}, 
-    {      "song":"Akh Lad Jaave",                           "url":"https://bit.ly/2RfGqnY" , "movie":"Love Yatri",   "image":"https://bit.ly/3o73ZeK"},
-    {      "song":"Wafa Na Raas Aayee",                      "url":"https://bit.ly/3uL7LgE" , "movie":"",   "image":"https://bit.ly/3hlmhaS"},
-    {      "song":"Gali Gali Me Phirta Hai(KGF)",            "url":"https://bit.ly/3eCs6id" , "movie":"",   "image":"https://bit.ly/3bfngWj"},
-    {      "song":"Tumhi Dekho Na",                          "url":"https://bit.ly/3eGeF14" , "movie":"Kabhi Alvida Na Kehna",   "image":"https://bit.ly/2SKC7BG"},
-    {      "song":"On & On",                                 "url":"https://bit.ly/3aW0frp" , "movie":"",   "image":"https://bit.ly/3uJSqNh"},
+    {	"song":"Hislerim",				"url":"https://bit.ly/3xqzipl" ,	"movie":"", 	      			"image":"https://bit.ly/3tDQ9ls" ,	"artist":""			},    
+    {	"song":"O Re Piya",				"url":"https://bit.ly/33EWS3G" ,	"movie":"",  				"image":"https://bit.ly/33xRGil" ,	"artist":""			},
+    {	"song":"Shape Of You",				"url":"https://bit.ly/3gF1COO" ,	"movie":"",   				"image":"https://bit.ly/3o6oRmz" ,	"artist":""			},
+    {	"song":"Fearless",				"url":"https://bit.ly/3aE73tz" ,	"movie":"",  				"image":"https://bit.ly/2SEBxoV" ,	"artist":""			}, 
+    {	"song":"Lut Gaye (Jubin Nautiyal)",		"url":"https://bit.ly/32Pr23U" ,	"movie":"",  				"image":"https://bit.ly/2RHYjvG" ,	"artist":""			}, 
+    {	"song":"Akh Lad Jaave",				"url":"https://bit.ly/2RfGqnY" ,	"movie":"Love Yatri",  			"image":"https://bit.ly/3o73ZeK" ,	"artist":""			},
+    {	"song":"Wafa Na Raas Aayee",			"url":"https://bit.ly/3uL7LgE" ,	"movie":"",  			 	"image":"https://bit.ly/3hlmhaS" ,	"artist":""			},
+    {	"song":"Gali Gali Me Phirta Hai",		"url":"https://bit.ly/3eCs6id" ,	"movie":"Kolar Gold Films (KGF)",  	"image":"https://bit.ly/3bfngWj" ,	"artist":""			},
+    {	"song":"Tumhi Dekho Na",			"url":"https://bit.ly/3eGeF14" ,	"movie":"Kabhi Alvida Na Kehna",	"image":"https://bit.ly/2SKC7BG" ,	"artist":""			},
+    {	"song":"On & On",				"url":"https://bit.ly/3aW0frp" ,	"movie":"" ,				"image":"https://bit.ly/3uJSqNh" ,	"artist":""			},
         
-    {      "song":"Let Me Love You",                         "url":"https://bit.ly/3euaTX7" , "movie":"",   "image":"https://bit.ly/3eG3NjC"},
-    {      "song":"Mortals-Wariyo",                          "url":"https://bit.ly/3aEsvhU" , "movie":"",   "image":"https://bit.ly/2Qb4LuG"},
-    {      "song":"Lost In Sound",                           "url":"https://bit.ly/3eJ6nnJ" , "movie":"",   "image":"https://bit.ly/3o8iwac"},
-    {      "song":"Tokyo Drift",                             "url":"https://bit.ly/3u8L8Cr" , "movie":"Fast And Furious",   "image":"https://bit.ly/3fhkyk6"},
-    {      "song":"Scam 1992(theme)",                        "url":"https://bit.ly/2PlnTps" , "movie":"Scam 1992",   "image":"https://bit.ly/3eFm8gx"},
-    {       "song":"Tum hi ho",                              "url":"https://bit.ly/3vY8Gua" , "movie":" Aashiqui 2",  "image":"https://bit.ly/3w3vZTc" },
-    {       "song":"Nazm Nazm sa",                           "url":"https://bit.ly/3hjujkq" , "movie":" Barfi",       "image":"https://bit.ly/2QcS7eT" },
-    {       "song":"Ae Mere Humsafar",                       "url":"https://bit.ly/3ycA5ul" , "movie":" Qayamat se Qyamat Tak",  "image":"https://bit.ly/2QaEqgm" },
-    {       "song":"Ae Mere Humsafar",                       "url":"https://bit.ly/33HTc19" , "movie":"All Is Well",  "image":"https://bit.ly/2QkcTZX" },        
-    {       "song":"Tera Zikr",                              "url":"https://bit.ly/3uIC0ob" , "movie":"",             "image":"https://bit.ly/3tHS48z" },
+    {	"song":"Let Me Love You",			"url":"https://bit.ly/3euaTX7" , 	"movie":"" ,				"image":"https://bit.ly/3eG3NjC" ,	"artist":""			},
+    {	"song":"Mortals-Wariyo",			"url":"https://bit.ly/3aEsvhU" , 	"movie":"" ,				"image":"https://bit.ly/2Qb4LuG" ,	"artist":""			},
+    {	"song":"Lost In Sound",				"url":"https://bit.ly/3eJ6nnJ" , 	"movie":"" ,				"image":"https://bit.ly/3o8iwac" ,	"artist":""			},
+    {	"song":"Tokyo Drift",				"url":"https://bit.ly/3u8L8Cr" , 	"movie":"Fast And Furious" ,		"image":"https://bit.ly/3fhkyk6" ,	"artist":""			},
+    {	"song":"Scam 1992(theme)",			"url":"https://bit.ly/2PlnTps" , 	"movie":"Scam 1992",			"image":"https://bit.ly/3eFm8gx" ,	"artist":""			},
+    {	"song":"Tum hi ho",				"url":"https://bit.ly/3vY8Gua" , 	"movie":"Aashiqui 2",			"image":"https://bit.ly/3w3vZTc" ,	"artist":""			},
+    {	"song":"Nazm Nazm sa",				"url":"https://bit.ly/3hjujkq" , 	"movie":"Barfi",			"image":"https://bit.ly/2QcS7eT" ,	"artist":""			},
+    {	"song":"Ae Mere Humsafar",			"url":"https://bit.ly/3ycA5ul" , 	"movie":"Qayamat se Qyamat Tak" ,	"image":"https://bit.ly/2QaEqgm" ,	"artist":""			},
+    {	"song":"Ae Mere Humsafar",			"url":"https://bit.ly/33HTc19" , 	"movie":"All Is Well" ,			"image":"https://bit.ly/2QkcTZX" ,	"artist":""			},        
+    {	"song":"Tera Zikr",				"url":"https://bit.ly/3uIC0ob" , 	"movie":"" ,				"image":"https://bit.ly/3tHS48z" ,	"artist":""			},
         
-    {       "song":"Tum Saath Ho",                           "url":"https://bit.ly/2QcV5Qz" , "movie":"Tamasha",      "image":"https://bit.ly/2Q9Uu1Q" },
-    {       "song":"Care Ni Karda",                          "url":"https://bit.ly/3y5P2OG" , "movie":"Challang",     "image":"https://bit.ly/3tOxZxk" },
-    {       "song":"Thoda Thoda Pyar",                       "url":"https://bit.ly/3oq9C8c" , "movie":"",             "image":"https://bit.ly/3bnDQmX" },
-    {       "song":"Chhor Denge",                            "url":"https://bit.ly/3hrOdtN" , "movie":"",             "image":"https://bit.ly/3oiw8j2" },
-    {       "song":"Doob Gaye",                              "url":"https://bit.ly/2SRTPmS" , "movie":"",             "image":"https://bit.ly/3w8KTYG" },
-    {       "song":"Machayenge 3- Emiway Bantai",            "url":"https://bit.ly/2RdqO4J" , "movie":"Emiway Bantai","image":"https://bit.ly/3fiKMmt" },
-    {       "song":"Malang (Title Track)",                   "url":"https://bit.ly/2S4ICyZ" , "movie":"Malang",       "image":"https://bit.ly/3eWtT23" },
-    {       "song":"Ghungroo",                               "url":"https://bit.ly/2QrCQ9Z" , "movie":"War",          "image":"https://bit.ly/3bzXo7G" },
-        
+    {	"song":"Tum Saath Ho",				"url":"https://bit.ly/2QcV5Qz" , 	"movie":"Tamasha",      		"image":"https://bit.ly/2Q9Uu1Q"  ,	"artist":""			},
+    {	"song":"Care Ni Karda",				"url":"https://bit.ly/3y5P2OG" , 	"movie":"Challang",     		"image":"https://bit.ly/3tOxZxk"  ,	"artist":""			},
+    {	"song":"Thoda Thoda Pyar",              	"url":"https://bit.ly/3oq9C8c" , 	"movie":"",             		"image":"https://bit.ly/3bnDQmX"  ,	"artist":"Stebin Ben, Nilesh Ahuja"	},
+    {	"song":"Chhor Denge",                   	"url":"https://bit.ly/3hrOdtN" , 	"movie":"",             		"image":"https://bit.ly/3oiw8j2"  ,	"artist":"Sachet-Parampara"	},
+    {	"song":"Doob Gaye",                       	"url":"https://bit.ly/2SRTPmS" , 	"movie":"",             		"image":"https://bit.ly/3w8KTYG"  ,	"artist":"Guru Randhawa"	},
+    {	"song":"Machayenge 3",				"url":"https://bit.ly/2RdqO4J" ,	"movie":"",				"image":"https://bit.ly/3fiKMmt"  ,	"artist":"Emiway Bantai"	},
+
+    {	"song":"Malang (Title Track)",			"url":"https://bit.ly/2S4ICyZ" , 	"movie":"Malang",			"image":"https://bit.ly/3yjPtVN" , 	"artist":"Ved Sharma"		},
+    {	"song":"Hui me",				"url":"https://bit.ly/2SW0OLr" , 	"movie":"Malang",       		"image":"https://bit.ly/33QIYMe" , 	"artist":""			},
+    {	"song":"Chal Ghar Chalein",			"url":"https://bit.ly/3hB8ahN" , 	"movie":"Malang",       		"image":"https://bit.ly/3tZWI1A" , 	"artist":""			},
+    {	"song":"Humraah",				"url":"https://bit.ly/3op9gi4" , 	"movie":"Malang",       		"image":"https://bit.ly/3yi1cEi" , 	"artist":""			},
+    {	"song":"Phir Na Mile Kabhi",			"url":"https://bit.ly/33TXsej" , 	"movie":"Malang",       		"image":"https://bit.ly/3whqcKa" , 	"artist":"Ankit Tiwari"		},
+
+    {	"song":"Ghungroo",				"url":"https://bit.ly/2QrCQ9Z" ,	"movie":"War" ,				"image":"https://bit.ly/3bzXo7G" ,	"artist":""			},
+    {	"song":"Jai Jai Shiv Shankar",			"url":"https://bit.ly/3fqehmh" ,	"movie":"War" ,				"image":"https://bit.ly/3ftzyeN" ,	"artist":""			},
+    {	"song":"War Theme (Instrumental)",		"url":"https://bit.ly/3ykXFoP" ,	"movie":"War" ,				"image":"https://bit.ly/3fwNm8j" ,	"artist":""			},
+    {	"song":"Kabir's Theme (Instrumental)",		"url":"https://bit.ly/3uZCNRO" ,	"movie":"War" ,				"image":"https://bit.ly/3fwNm8j" ,	"artist":""			},
+    {	"song":"Khalid's Theme (Instrumental)",		"url":"https://bit.ly/3yoMYSc" ,	"movie":"War" ,				"image":"https://bit.ly/3fwNm8j" ,	"artist":""			},
+
+    {	"song":"Malang",				"url":"https://bit.ly/2RkAU3P" ,	"movie":"Dhoom 3" ,			"image":"https://bit.ly/3wkFWMv" ,	"artist":"Shilpa Rao, Siddharth Mahadevan"	},
+    {	"song":"Makhna",				"url":"https://bit.ly/3osrrTS" ,	"movie":"Drive" ,			"image":"https://bit.ly/3eW3S2O" ,	"artist":"Tanishk Bagchi"	},
+
+    {	"song":"Saiyan Ji",				"url":"https://bit.ly/2SPHqj9" ,	"movie":"" ,				"image":"https://bit.ly/3u2U9fb" ,	"artist":"Yo Yo Honey Singh"	},
+    {	"song":"First Kiss",				"url":"https://bit.ly/3uXQTmI" ,	"movie":"" ,				"image":"https://bit.ly/3fw2lzk" ,	"artist":"Yo Yo Honey Singh"	},
+    {	"song":"Makhna",				"url":"https://bit.ly/3tUnusk" ,	"movie":"" ,				"image":"https://bit.ly/3uZGsPy" ,	"artist":"Yo Yo Honey Singh"	},
+
+    {	"song":"Memba",					"url":"https://bit.ly/3eVfz9S" ,	"movie":"The Sky Is Pink",		"image":"https://bit.ly/3fjoK34" ,	"artist":""	}
     
         
-    {       "song":"Memba",                                  "url":"https://www.dropbox.com/s/bylzuzx6mk6sqzr/MEMBA%20-%20For%20Aisha%20(Featured%20in%20The%20Sky%20Is%20Pink)%20[Lyric%20Video].mp3?dl=1" , "movie":"The Sky Is Pink","image":"https://bit.ly/3fjoK34" }
+    ];
     
-        
-    ],
-    "testing":
-    [
-    {      "song":"Hislerim",       "url":"https://bit.ly/3xqzipl"    ,"movie":"Kabhi","image":"https://i1.sndcdn.com/artworks-r3gNBO8Le4qV2ziY-uk7cxw-t500x500.jpg"}    ,
-    {      "song":"Shape Of You",   "url":"https://bit.ly/3gF1COO" ,    "movie":"Kabhi","image":"https://upload.wikimedia.org/wikipedia/en/b/b4/Shape_Of_You_%28Official_Single_Cover%29_by_Ed_Sheeran.png"}
-    ]
-}
