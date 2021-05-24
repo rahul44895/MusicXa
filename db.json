@@ -55,7 +55,9 @@
     {	"song":"Illegal Weapon 2.0",			"url":"https://bit.ly/3bzrpob" ,	"movie":"Street Dancer", 	      	"image":"https://bit.ly/3wdxq1u" ,	"artist":"Jasmine Sandlas, Garry Sandhu"},
     {	"song":"Challa (Main Lad Jaana)",		"url":"https://bit.ly/3ym8fvD" ,	"movie":"URI", 	      			"image":"https://bit.ly/3oxtgil" ,	"artist":"Romy, Vivek Hariharan, Shashwat Sachdev"},
     
-    {	"song":"Memba",					"url":"https://bit.ly/3eVfz9S" ,	"movie":"The Sky Is Pink",		"image":"https://bit.ly/3fjoK34" ,	"artist":""	}
+    {	"song":"Memba",					"url":"https://bit.ly/3eVfz9S" ,	"movie":"The Sky Is Pink",		"image":"https://bit.ly/3fjoK34" ,	"artist":""	},
+    {	"song":"Seeti Maar",			"url":"https://bit.ly/3bOBpKo" ,	"movie":"Radhe - Your Most Wanted Bhai", 	"image":"https://bit.ly/33XiNmZ" ,	"artist":"Himesh Reshammiya"		}
+
 ];
     
         
