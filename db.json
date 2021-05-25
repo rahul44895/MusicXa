@@ -62,20 +62,21 @@
     
     {	"song":"Echo (with KSHMR)",     	"url":"https://bit.ly/34bHNXL",	"image":"https://bit.ly/3wwrjpw",	"movie":"",	"artist":"Armaan Malik, Eric Nam"},
     {	"song":"Butter",	                "url":"https://bit.ly/2T7JH9w",	"image":"https://bit.ly/3wB03WT",	"movie":"",	"artist":"BTS"},
-{	"song":"Dynamite",	                    "url":"https://bit.ly/3fKKHIw",	"image":"https://bit.ly/3wtAdE0",	"movie":"",	"artist":"BTS"},
-{	"song":"Filter",	                    "url":"https://bit.ly/3fKKW6o",	"image":"https://bit.ly/3yDbCyj",	"movie":"",	"artist":"BTS"},
+{	"song":"Dynamite",			"url":"https://bit.ly/3fKKHIw",	"image":"https://bit.ly/3wtAdE0",	"movie":"",	"artist":"BTS"},
+{	"song":"Filter",			"url":"https://bit.ly/3fKKW6o",	"image":"https://bit.ly/3yDbCyj",	"movie":"",	"artist":"BTS"},
 {	"song":"Dope",                      	"url":"https://bit.ly/3ujPlCg",	"image":"https://bit.ly/3hNG9ni",	"movie":"",	"artist":"BTS"},
-{	"song":"Not Today",	                    "url":"https://bit.ly/3fiLamg",	"image":"https://bit.ly/34eBYsH",	"movie":"",	"artist":"BTS"},
-{	"song":"Boy With luv (ft.Halsey)",       "url":"https://bit.ly/3bSie2i",	"image":"https://bit.ly/3fnzNtn",	"movie":"",	"artist":"BTS"},
+{	"song":"Not Today",			"url":"https://bit.ly/3fiLamg",	"image":"https://bit.ly/34eBYsH",	"movie":"",	"artist":"BTS"},
+{	"song":"Boy With luv (ft.Halsey)",	"url":"https://bit.ly/3bSie2i",	"image":"https://bit.ly/3fnzNtn",	"movie":"",	"artist":"BTS"},
 {	"song":"IDOL",	                        "url":"https://bit.ly/2QMG5ZM",	"image":"https://bit.ly/3fieqtj",	"movie":"",	"artist":"BTS"},
 {	"song":"Spring Day",	                "url":"https://bit.ly/2ThAbAX",	"image":"https://bit.ly/2RBSyAc",	"movie":"",	"artist":"BTS"},
 {	"song":"Blood Sweat & Tears",       	"url":"https://bit.ly/3fMibWG",	"image":"https://bit.ly/3wB2CZ1",	"movie":"",	"artist":"BTS"},
 {	"song":"MIC Drop (Steve Aoki Remix) [Full Length Edition]",	"url":"https://bit.ly/2RBTncg",	"image":"https://bit.ly/34dyzKu",	"movie":"",	"artist":"BTS"},
-{	"song":"FAKE LOVE",	"url":"https://bit.ly/2RBdyqN",	"image":"https://bit.ly/3wwelYO",	"movie":"",	"artist":"BTS"},
-{	"song":"DNA",	"url":"https://bit.ly/2RKA9AX",	"image":"https://bit.ly/2SjFm2J",	"movie":"",	"artist":"BTS"},
+{	"song":"FAKE LOVE",			"url":"https://bit.ly/2RBdyqN",	"image":"https://bit.ly/3wwelYO",	"movie":"",	"artist":"BTS"},
+{	"song":"DNA",				"url":"https://bit.ly/2RKA9AX",	"image":"https://bit.ly/2SjFm2J",	"movie":"",	"artist":"BTS"},
 {	"song":"Dikaya lʹvitsa (Дикая львица)",	"url":"https://bit.ly/3vwewTy",	"image":"https://bit.ly/3bUgpSy",	"movie":"",	"artist":"ALEX & RUS"},
 {	"song":"The Nights (Avicii By Avicii)",	"url":"https://bit.ly/3yzzqmN",	"image":"https://bit.ly/3bT6217",	"movie":"",	"artist":"Avicii"},
-{	"song":"Taki Taki",	"url":"https://bit.ly/34lLjid",	"image":"https://bit.ly/2RIEvZu",	"movie":"",	"artist":"DJ Snake"}
+{	"song":"Taki Taki",			"url":"https://bit.ly/34lLjid",	"image":"https://bit.ly/2RIEvZu",	"movie":"",	"artist":"DJ Snake"},
+{	"song":"7 rings",			"url":"https://bit.ly/3ulHV1q",	"image":"https://bit.ly/3vfWx3P",	"movie":"",	"artist":"Ariana Grande"}
 ];
     
         
