@@ -53,13 +53,11 @@
     {	"song":"Shayad",				"url":"https://bit.ly/3bE83hP" ,	"movie":"Love Aaj Kal", 	      	"image":"https://bit.ly/3tWSQhT" ,	"artist":"Arjit Singh"			},
     {	"song":"Falling",				"url":"https://bit.ly/3ymQPiw" ,	"movie":"", 	      			"image":"https://bit.ly/2RvaYCs" ,	"artist":"Trever Daniel"		},
     {	"song":"Illegal Weapon 2.0",			"url":"https://bit.ly/3bzrpob" ,	"movie":"Street Dancer", 	      	"image":"https://bit.ly/3wdxq1u" ,	"artist":"Jasmine Sandlas, Garry Sandhu"},
-    {	"song":"Challa (Main Lad Jaana)",		"url":"https://bit.ly/3ym8fvD" ,	"movie":"URI", 	      			"image":"https://bit.ly/3oxtgil" ,	"artist":"Romy, Vivek Hariharan, Shashwat Sachdev"},
-    
+    {	"song":"Challa (Main Lad Jaana)",		"url":"https://bit.ly/3ym8fvD" ,	"movie":"URI", 	      			"image":"https://bit.ly/3oxtgil" ,	"artist":"Romy, Vivek Hariharan, Shashwat Sachdev"},    
     {	"song":"Memba",					"url":"https://bit.ly/3eVfz9S" ,	"movie":"The Sky Is Pink",		"image":"https://bit.ly/3fjoK34" ,	"artist":""	},
+    {	"song":"Salam-E-Ishq Meri Jaan",					"url":"https://bit.ly/2QUagON" ,	"movie":"Muqaddar Ka Sikandar",		"image":"https://bit.ly/3fmIyni" ,	"artist":"Kalyanji Anandji, Lata Mangeshkar, Kishore Kumar"	},
+    
     {	"song":"Seeti Maar",				"url":"https://bit.ly/3bOBpKo" ,	"movie":"Radhe - Your Most Wanted Bhai", "image":"https://bit.ly/3fHU9w1" ,	"artist":"Himesh Reshammiya"		},
-    
-    
-    
     {	"song":"Echo (with KSHMR)",     	"url":"https://bit.ly/34bHNXL",	"image":"https://bit.ly/3wwrjpw",	"movie":"",	"artist":"Armaan Malik, Eric Nam"},
     {	"song":"Butter",	                "url":"https://bit.ly/2T7JH9w",	"image":"https://bit.ly/3wB03WT",	"movie":"",	"artist":"BTS"},
 {	"song":"Dynamite",			"url":"https://bit.ly/3fKKHIw",	"image":"https://bit.ly/3wtAdE0",	"movie":"",	"artist":"BTS"},
