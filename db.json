@@ -3,7 +3,7 @@
     
     {	"song":"Hislerim",				"url":"https://bit.ly/3fD9LAU" ,	"movie":"", 	      			"image":"https://bit.ly/3tDQ9ls" ,	"artist":""			},    
     {	"song":"O Re Piya",				"url":"https://bit.ly/33EWS3G" ,	"movie":"",  				"image":"https://bit.ly/33xRGil" ,	"artist":""			},
-    {	"song":"Shape Of You",				"url":"https://bit.ly/3gF1COO" ,	"movie":"",   				"image":"https://bit.ly/3o6oRmz" ,	"artist":"Ed Sheeran"			},
+    {	"song":"Shape Of You",				"url":"https://bit.ly/3gF1COO" ,	"movie":"",   				"image":"https://bit.ly/3o6oRmz" ,	"artist":"Ed Sheeran"		},
     {	"song":"Fearless",				"url":"https://bit.ly/3aE73tz" ,	"movie":"",  				"image":"https://bit.ly/2SEBxoV" ,	"artist":""			}, 
     {	"song":"Lut Gaye (Jubin Nautiyal)",		"url":"https://bit.ly/32Pr23U" ,	"movie":"",  				"image":"https://bit.ly/2RHYjvG" ,	"artist":""			}, 
     {	"song":"Akh Lad Jaave",				"url":"https://bit.ly/2RfGqnY" ,	"movie":"Love Yatri",  			"image":"https://bit.ly/3o73ZeK" ,	"artist":""			},
@@ -75,34 +75,31 @@
 {	"song":"Taki Taki",			"url":"https://bit.ly/34lLjid",	"image":"https://bit.ly/2RIEvZu",	"movie":"",	"artist":"DJ Snake, Selena Gomez"},
 {	"song":"7 rings",			"url":"https://bit.ly/3ulHV1q",	"image":"https://bit.ly/3vfWx3P",	"movie":"",	"artist":"Ariana Grande"},
 {	"song":"Play Date",			"url":"https://bit.ly/3fIikuo",	"image":"https://bit.ly/3ulL55i",	"movie":"",	"artist":"Melanie Martinez"},
-{	"song":"MIC Drop (Steve Aoki Remix) [Full Length Edition]",	"url":"https://bit.ly/2RBTncg",	"image":"https://bit.ly/34dyzKu",	"movie":"",	"artist":"BTS"},
-    {	"song":"Urvashi",	"url":"https://bit.ly/2Tar9p8",	"image":"https://bit.ly/3oQV6Gx",	"movie":"",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Aata Majhi Satakli",	"url":"https://bit.ly/3hTNS33",	"image":"https://bit.ly/2StRoXc",	"movie":"Singham Returns",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Issey Kehte Hain Hip Hop",	"url":"https://bit.ly/3yGP1kL",	"image":"https://bit.ly/3vpE4Si",	"movie":"",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Call Aundi",	"url":"https://bit.ly/3bU45Sc",	"image":"https://bit.ly/3fPikJ2",	"movie":"Zorawar",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Mast Kalander",	"url":"https://bit.ly/3vnCbWq",	"image":"https://bit.ly/3yGPROr",	"movie":"",	"artist":"Mika Singh,Yo Yo Honey Singh"},
-{	"song":"Lonely",	"url":"https://bit.ly/3hUxGPo",	"image":"https://bit.ly/34fZi9o",	"movie":"Khiladi 786",	"artist":"Himesh Reshammiya,Yo Yo Honey Singh"},
-{	"song":"Party With The Bhootnath",	"url":"https://bit.ly/3vp3gbB",	"image":"https://bit.ly/3vhZukp",	"movie":"Bhootnath Returns",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Get Up Jawani",	"url":"https://bit.ly/3fleKYc",	"image":"https://bit.ly/34gkGez",	"movie":"",	"artist":"Yo Yo Honey Singh ft.Badshah"},
-{	"song":"Race 2 Mashup",	"url":"https://bit.ly/3oPf4Sd",	"image":"https://bit.ly/3fm0iiu",	"movie":"Race 2",	"artist":"Pritam,kk,Shefali Alvares,Yo Yo Honey Singh.Atif Aslam"},
-{	"song":"Gur Nalo Ishq Mitha-The Yoyo Remake",	"url":"https://bit.ly/3fK9L2m",	"image":"https://bit.ly/3i1aNtg",	"movie":"",	"artist":"Malkit Singh,Yo Yo Honey Singh"},
-    {	"song":"Moscow Mashuka",	"url":"https://bit.ly/3bUZYoN",	"image":"https://bit.ly/2Tl8tDp",	"movie":"",	"artist":"Yo Yo Honey Singh,Neha Kakkar,Ekaterina Sizova"},
-{	"song":"Rangtaari",	"url":"https://bit.ly/3hZcIP9",	"image":"https://bit.ly/3wAWLTi",	"movie":"Love Yatri",	"artist":"Dev Negi,Yo Yo Honey Singh"},
-{	"song":"Shor Machega",	"url":"https://bit.ly/3fKBQq5",	"image":"https://bit.ly/3oQm2pU",	"movie":"Mumbai Saga",	"artist":"Yo Yo Honey Singh,Hommie Dilliwale"},
-{	"song":"Mein Sharabi",	"url":"https://bit.ly/3oPLzQf",	"image":"https://bit.ly/3ulI8C0",	"movie":"Cocktail",	"artist":"Pritam,Imran Aziz Mian,Yo Yo Honey Singh"},
-{	"song":"Angreji Beat",	"url":"https://bit.ly/3fL06Zo",	"image":"https://bit.ly/3uqY8Cy",	"movie":"",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Birthday Bash",	"url":"https://bit.ly/3foDyhY",	"image":"https://bit.ly/3wAZNHa",	"movie":"Dilliwaali Zaalim Girlfriend",	"artist":"Yo Yo Honey Singh, Amanjot singh Panwar"},
-{	"song":"Aao Raja",	"url":"https://bit.ly/3fnplSn",	"image":"https://bit.ly/3fll1mM",	"movie":"Gabber is Back",	"artist":"Neha Kakkar, Yo Yo Honey Singh"},
-{	"song":"Boss",	"url":"https://bit.ly/2SrsCHm",	"image":"https://bit.ly/3fQoDMD",	"movie":"Boss",	"artist":"Meet Bros,Yo Yo Honey Singh"},
-{	"song":"Dope Shope",	"url":"https://bit.ly/2SsoPtl",	"image":"https://bit.ly/3uoQKHO",	"movie":"",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Aankhon Aankhon",	"url":"https://bit.ly/3ulLd52",	"image":"https://bit.ly/2SspJ9d",	"movie":"Bhaag Johnny",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Rani Tu Mai Raja",	"url":"https://bit.ly/3yIz4KD",	"image":"https://bit.ly/3vozgfX",	"movie":"Son of Sardaar",	"artist":"Himesh Reshammiya, Mika Singh, Bhavya Pandit, Yo Yo Honey Singh"},
-{	"song":"One Bottle Down",	"url":"https://bit.ly/34j4Bov",	"image":"https://bit.ly/3hSZ0gP",	"movie":"",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Yaar Naa Miley",	"url":"https://bit.ly/3g2aNab",	"image":"https://bit.ly/3fLiGAD",	"movie":"Kick",	"artist":"Yo Yo Honey Singh"}
 
+{	"song":"Aata Majhi Satakli",		"url":"https://bit.ly/3hTNS33",	"image":"https://bit.ly/2StRoXc",	"movie":"Singham Returns",	"artist":"Yo Yo Honey Singh"},
+{	"song":"MIC Drop (Steve Aoki Remix) [Full Length Edition]",	"url":"https://bit.ly/2RBTncg",	"image":"https://bit.ly/34dyzKu",	"movie":"",	"artist":"BTS"},
+{	"song":"Call Aundi",			"url":"https://bit.ly/3bU45Sc",	"image":"https://bit.ly/3fPikJ2",		"movie":"Zorawar",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Mast Kalander",			"url":"https://bit.ly/3vnCbWq",	"image":"https://bit.ly/3yGPROr",		"movie":"",	"artist":"Mika Singh,Yo Yo Honey Singh"},
+{	"song":"Lonely",			"url":"https://bit.ly/3hUxGPo",	"image":"https://bit.ly/34fZi9o",		"movie":"Khiladi 786",	"artist":"Himesh Reshammiya,Yo Yo Honey Singh"},
+{	"song":"Party With The Bhootnath",	"url":"https://bit.ly/3vp3gbB",	"image":"https://bit.ly/3vhZukp",		"movie":"Bhootnath Returns",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Get Up Jawani",			"url":"https://bit.ly/3fleKYc",	"image":"https://bit.ly/34gkGez",		"movie":"",	"artist":"Yo Yo Honey Singh ft.Badshah"},
+{	"song":"Race 2 Mashup",			"url":"https://bit.ly/3oPf4Sd",	"image":"https://bit.ly/3fm0iiu",		"movie":"Race 2",	"artist":"Pritam,kk,Shefali Alvares,Yo Yo Honey Singh.Atif Aslam"},
+
+{	"song":"Moscow Mashuka",		"url":"https://bit.ly/3bUZYoN",	"image":"https://bit.ly/2Tl8tDp",		"movie":"",	"artist":"Yo Yo Honey Singh,Neha Kakkar,Ekaterina Sizova"},
+{	"song":"Rangtaari",			"url":"https://bit.ly/3hZcIP9",	"image":"https://bit.ly/3wAWLTi",		"movie":"Love Yatri",	"artist":"Dev Negi,Yo Yo Honey Singh"},
+{	"song":"Shor Machega",			"url":"https://bit.ly/3fKBQq5",	"image":"https://bit.ly/3oQm2pU",		"movie":"Mumbai Saga",	"artist":"Yo Yo Honey Singh,Hommie Dilliwale"},
+{	"song":"Mein Sharabi",			"url":"https://bit.ly/3oPLzQf",	"image":"https://bit.ly/3ulI8C0",		"movie":"Cocktail",	"artist":"Pritam,Imran Aziz Mian,Yo Yo Honey Singh"},
+{	"song":"Angreji Beat",			"url":"https://bit.ly/3fL06Zo",	"image":"https://bit.ly/3uqY8Cy",		"movie":"",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Birthday Bash",			"url":"https://bit.ly/3foDyhY",	"image":"https://bit.ly/3wAZNHa",		"movie":"Dilliwaali Zaalim Girlfriend",	"artist":"Yo Yo Honey Singh, Amanjot singh Panwar"},
+{	"song":"Aao Raja",			"url":"https://bit.ly/3fnplSn",	"image":"https://bit.ly/3fll1mM",		"movie":"Gabber is Back",	"artist":"Neha Kakkar, Yo Yo Honey Singh"},
+{	"song":"Boss",				"url":"https://bit.ly/2SrsCHm",	"image":"https://bit.ly/3fQoDMD",		"movie":"Boss",	"artist":"Meet Bros,Yo Yo Honey Singh"},
+{	"song":"Dope Shope",			"url":"https://bit.ly/2SsoPtl",	"image":"https://bit.ly/3uoQKHO",		"movie":"",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Aankhon Aankhon",		"url":"https://bit.ly/3ulLd52",	"image":"https://bit.ly/2SspJ9d",		"movie":"Bhaag Johnny",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Rani Tu Mai Raja",		"url":"https://bit.ly/3yIz4KD",	"image":"https://bit.ly/3vozgfX",		"movie":"Son of Sardaar",	"artist":"Himesh Reshammiya, Mika Singh, Bhavya Pandit, Yo Yo Honey Singh"},
+{	"song":"One Bottle Down",		"url":"https://bit.ly/34j4Bov",	"image":"https://bit.ly/3hSZ0gP",		"movie":"",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Yaar Naa Miley",		"url":"https://bit.ly/3g2aNab",	"image":"https://bit.ly/3fLiGAD",		"movie":"Kick",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Issey Kehte Hain Hip Hop",	"url":"https://bit.ly/3yGP1kL",	"image":"https://bit.ly/3vpE4Si",		"movie":"",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Urvashi",			"url":"https://bit.ly/2Tar9p8",	"image":"https://bit.ly/3oQV6Gx",		"movie":"",	"artist":"Yo Yo Honey Singh"},
+{	"song":"Gur Nalo Ishq Mitha-The Yoyo Remake",	"url":"https://bit.ly/3fK9L2m",	"image":"https://bit.ly/3i1aNtg",	"movie":"",	"artist":"Malkit Singh,Yo Yo Honey Singh"}
 
 ];
-    
-        
-    
-    
