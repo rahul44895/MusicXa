@@ -1,118 +1,723 @@
 [
-
-    
-    {	"song":"Hislerim",				"url":"https://bit.ly/3fD9LAU" ,	"movie":"", 	      			"image":"https://bit.ly/3tDQ9ls" ,	"artist":"Serhat Durmus"			},    
-    {	"song":"O Re Piya",				"url":"https://bit.ly/3RRaWPr" ,	"movie":"",  				"image":"https://bit.ly/3L7rUGz" ,	"artist":""			},
-    {	"song":"Shape Of You",				"url":"https://bit.ly/3Bv1gEo" ,	"movie":"",   				"image":"https://bit.ly/3o6oRmz" ,	"artist":"Ed Sheeran"		},
-    {	"song":"Fearless",				"url":"https://bit.ly/3aE73tz" ,	"movie":"",  				"image":"https://bit.ly/2SEBxoV" ,	"artist":""			}, 
-    {	"song":"Lut Gaye (Jubin Nautiyal)",		"url":"https://bit.ly/32Pr23U" ,	"movie":"",  				"image":"https://bit.ly/2RHYjvG" ,	"artist":""			}, 
-    {	"song":"Akh Lad Jaave",				"url":"https://bit.ly/2RfGqnY" ,	"movie":"Love Yatri",  			"image":"https://bit.ly/3o73ZeK" ,	"artist":""			},
-    {	"song":"Wafa Na Raas Aayee",			"url":"https://bit.ly/3uL7LgE" ,	"movie":"",  			 	"image":"https://bit.ly/3hlmhaS" ,	"artist":""			},
-    {	"song":"Gali Gali Me Phirta Hai",		"url":"https://bit.ly/3eCs6id" ,	"movie":"Kolar Gold Films (KGF)",  	"image":"https://bit.ly/3bfngWj" ,	"artist":""			},
-    {	"song":"Tumhi Dekho Na",			"url":"https://bit.ly/3eGeF14" ,	"movie":"Kabhi Alvida Na Kehna",	"image":"https://bit.ly/2SKC7BG" ,	"artist":""			},
-    {	"song":"On & On",				"url":"https://bit.ly/3aW0frp" ,	"movie":"" ,				"image":"https://bit.ly/3uJSqNh" ,	"artist":""			},
-        
-    {	"song":"Let Me Love You",			"url":"https://bit.ly/3euaTX7" , 	"movie":"" ,				"image":"https://bit.ly/3eG3NjC" ,	"artist":""			},
-    {	"song":"Mortals-Wariyo",			"url":"https://bit.ly/3aEsvhU" , 	"movie":"" ,				"image":"https://bit.ly/2Qb4LuG" ,	"artist":""			},
-    {	"song":"Lost In Sound",				"url":"https://bit.ly/3eJ6nnJ" , 	"movie":"" ,				"image":"https://bit.ly/3o8iwac" ,	"artist":""			},
-    {	"song":"Tokyo Drift",				"url":"https://bit.ly/3u8L8Cr" , 	"movie":"Fast And Furious" ,		"image":"https://bit.ly/3fhkyk6" ,	"artist":""			},
-    {	"song":"Scam 1992(theme)",			"url":"https://bit.ly/2PlnTps" , 	"movie":"Scam 1992",			"image":"https://bit.ly/3eFm8gx" ,	"artist":""			},
-    {	"song":"Tum hi ho",				"url":"https://bit.ly/3vY8Gua" , 	"movie":"Aashiqui 2",			"image":"https://bit.ly/3w3vZTc" ,	"artist":""			},
-    {	"song":"Nazm Nazm sa",				"url":"https://bit.ly/3hjujkq" , 	"movie":"Barfi",			"image":"https://bit.ly/2QcS7eT" ,	"artist":""			},
-    {	"song":"Ae Mere Humsafar",			"url":"https://bit.ly/3ycA5ul" , 	"movie":"Qayamat se Qyamat Tak" ,	"image":"https://bit.ly/2QaEqgm" ,	"artist":""			},
-    {	"song":"Ae Mere Humsafar.",			"url":"https://bit.ly/33HTc19" , 	"movie":"All Is Well" ,			"image":"https://bit.ly/2QkcTZX" ,	"artist":""			},        
-    {	"song":"Tera Zikr",				"url":"https://bit.ly/3uIC0ob" , 	"movie":"" ,				"image":"https://bit.ly/3tHS48z" ,	"artist":""			},
-        
-    {	"song":"Tum Saath Ho",				"url":"https://bit.ly/2QcV5Qz" , 	"movie":"Tamasha",      		"image":"https://bit.ly/3QPzrex"  ,	"artist":""			},
-    {	"song":"Care Ni Karda",				"url":"https://bit.ly/3y5P2OG" , 	"movie":"Challang",     		"image":"https://bit.ly/3tOxZxk"  ,	"artist":""			},
-    {	"song":"Thoda Thoda Pyar",              	"url":"https://bit.ly/3oq9C8c" , 	"movie":"",             		"image":"https://bit.ly/3QPypzb"  ,	"artist":"Stebin Ben, Nilesh Ahuja"	},
-    {	"song":"Chhor Denge",                   	"url":"https://bit.ly/3hrOdtN" , 	"movie":"",             		"image":"https://bit.ly/3oiw8j2"  ,	"artist":"Sachet-Parampara"	},
-    {	"song":"Doob Gaye",                       	"url":"https://bit.ly/2SRTPmS" , 	"movie":"",             		"image":"https://bit.ly/3w8KTYG"  ,	"artist":"Guru Randhawa"	},
-    {	"song":"Machayenge 3",				"url":"https://bit.ly/2RdqO4J" ,	"movie":"",				"image":"https://bit.ly/3fiKMmt"  ,	"artist":"Emiway Bantai"	},
-
-    {	"song":"Malang (Title Track)",			"url":"https://bit.ly/2S4ICyZ" , 	"movie":"Malang",			"image":"https://bit.ly/3yjPtVN" , 	"artist":"Ved Sharma"		},
-    {	"song":"Hui me",				"url":"https://bit.ly/2SW0OLr" , 	"movie":"Malang",       		"image":"https://bit.ly/33QIYMe" , 	"artist":""			},
-    {	"song":"Chal Ghar Chalein",			"url":"https://bit.ly/3hB8ahN" , 	"movie":"Malang",       		"image":"https://bit.ly/3tZWI1A" , 	"artist":""			},
-    {	"song":"Humraah",				"url":"https://bit.ly/3op9gi4" , 	"movie":"Malang",       		"image":"https://bit.ly/3yi1cEi" , 	"artist":""			},
-    {	"song":"Phir Na Mile Kabhi",			"url":"https://bit.ly/33TXsej" , 	"movie":"Malang",       		"image":"https://bit.ly/3whqcKa" , 	"artist":"Ankit Tiwari"		},
-
-    {	"song":"Ghungroo",				"url":"https://bit.ly/2QrCQ9Z" ,	"movie":"War" ,				"image":"https://bit.ly/3bzXo7G" ,	"artist":""			},
-    {	"song":"Jai Jai Shiv Shankar",			"url":"https://bit.ly/3fqehmh" ,	"movie":"War" ,				"image":"https://bit.ly/3ftzyeN" ,	"artist":""			},
-    {	"song":"War Theme (Instrumental)",		"url":"https://bit.ly/3ykXFoP" ,	"movie":"War" ,				"image":"https://bit.ly/3fwNm8j" ,	"artist":""			},
-    {	"song":"Kabir's Theme (Instrumental)",		"url":"https://bit.ly/3uZCNRO" ,	"movie":"War" ,				"image":"https://bit.ly/3fwNm8j" ,	"artist":""			},
-    {	"song":"Khalid's Theme (Instrumental)",		"url":"https://bit.ly/3yoMYSc" ,	"movie":"War" ,				"image":"https://bit.ly/3fwNm8j" ,	"artist":""			},
-
-    {	"song":"Malang",				"url":"https://bit.ly/2RkAU3P" ,	"movie":"Dhoom 3" ,			"image":"https://bit.ly/3wkFWMv" ,	"artist":"Shilpa Rao, Siddharth Mahadevan"	},
-    {	"song":"Makhna.",				"url":"https://bit.ly/3osrrTS" ,	"movie":"Drive" ,			"image":"https://bit.ly/3eW3S2O" ,	"artist":"Tanishk Bagchi"	},
-
-    {	"song":"Saiyan Ji",				"url":"https://bit.ly/2SPHqj9" ,	"movie":"" ,				"image":"https://bit.ly/3u2U9fb" ,	"artist":"Yo Yo Honey Singh"	},
-    {	"song":"First Kiss",				"url":"https://bit.ly/3uXQTmI" ,	"movie":"" ,				"image":"https://bit.ly/3fw2lzk" ,	"artist":"Yo Yo Honey Singh"	},
-    {	"song":"Makhna",				"url":"https://bit.ly/3tUnusk" ,	"movie":"" ,				"image":"https://bit.ly/3uZGsPy" ,	"artist":"Yo Yo Honey Singh"	},
-
-    {	"song":"Tujhe Kitna Chahne Lage",		"url":"https://bit.ly/3bGfkxp" ,	"movie":"Kabir Singh", 	      		"image":"https://bit.ly/33XiNmZ" ,	"artist":"Arjit Singh"			},
-    {	"song":"Shayad",				"url":"https://bit.ly/3bE83hP" ,	"movie":"Love Aaj Kal", 	      	"image":"https://bit.ly/3tWSQhT" ,	"artist":"Arjit Singh"			},
-    {	"song":"Falling",				"url":"https://bit.ly/3ymQPiw" ,	"movie":"", 	      			"image":"https://bit.ly/2RvaYCs" ,	"artist":"Trever Daniel"		},
-    {	"song":"Illegal Weapon 2.0",			"url":"https://bit.ly/3bzrpob" ,	"movie":"Street Dancer", 	      	"image":"https://bit.ly/3wdxq1u" ,	"artist":"Jasmine Sandlas, Garry Sandhu"},
-    {	"song":"Challa (Main Lad Jaana)",		"url":"https://bit.ly/3ym8fvD" ,	"movie":"URI", 	      			"image":"https://bit.ly/3oxtgil" ,	"artist":"Romy, Vivek Hariharan, Shashwat Sachdev"},    
-    {	"song":"Memba",					"url":"https://bit.ly/3eVfz9S" ,	"movie":"The Sky Is Pink",		"image":"https://bit.ly/3fjoK34" ,	"artist":""	},
-    {	"song":"Salam-E-Ishq Meri Jaan",		"url":"https://bit.ly/2QUagON" ,	"movie":"Muqaddar Ka Sikandar",		"image":"https://bit.ly/3fmIyni" ,	"artist":"Kalyanji Anandji, Lata Mangeshkar, Kishore Kumar"	},
-    {	"song":"Seeti Maar",				"url":"https://bit.ly/3bOBpKo",		"movie":"Radhe - Your Most Wanted Bhai","image":"https://bit.ly/3fHU9w1" ,	"artist":"Himesh Reshammiya"		},
-
-{	"song":"Echo (with KSHMR)",     	"url":"https://bit.ly/34bHNXL",	"image":"https://bit.ly/3wwrjpw",		"movie":"",	"artist":"Armaan Malik, Eric Nam"},
-{	"song":"Butter",	                "url":"https://bit.ly/2T7JH9w",	"image":"https://bit.ly/3wB03WT",		"movie":"",	"artist":"BTS"},
-{	"song":"Dynamite",			"url":"https://bit.ly/3fKKHIw",	"image":"https://bit.ly/3wtAdE0",		"movie":"",	"artist":"BTS"},
-{	"song":"Filter",			"url":"https://bit.ly/3fKKW6o",	"image":"https://bit.ly/3yDbCyj",		"movie":"",	"artist":"BTS"},
-{	"song":"Dope",                      	"url":"https://bit.ly/3ujPlCg",	"image":"https://bit.ly/3hNG9ni",		"movie":"",	"artist":"BTS"},
-{	"song":"Not Today",			"url":"https://bit.ly/3fiLamg",	"image":"https://bit.ly/34eBYsH",		"movie":"",	"artist":"BTS"},
-{	"song":"Boy With luv (ft.Halsey)",	"url":"https://bit.ly/3bSie2i",	"image":"https://bit.ly/3fnzNtn",		"movie":"",	"artist":"BTS"},
-{	"song":"IDOL",	                        "url":"https://bit.ly/2QMG5ZM",	"image":"https://bit.ly/3fieqtj",		"movie":"",	"artist":"BTS"},
-{	"song":"Spring Day",	                "url":"https://bit.ly/2ThAbAX",	"image":"https://bit.ly/2RBSyAc",		"movie":"",	"artist":"BTS"},
-{	"song":"Blood Sweat & Tears",       	"url":"https://bit.ly/3fMibWG",	"image":"https://bit.ly/3wB2CZ1",		"movie":"",	"artist":"BTS"},
-{	"song":"FAKE LOVE",			"url":"https://bit.ly/2RBdyqN",	"image":"https://bit.ly/3wwelYO",		"movie":"",	"artist":"BTS"},
-{	"song":"DNA",				"url":"https://bit.ly/2RKA9AX",	"image":"https://bit.ly/2SjFm2J",		"movie":"",	"artist":"BTS"},
-{	"song":"MIC Drop (Steve Aoki Remix) [Full Length Edition]",	"url":"https://bit.ly/2RBTncg",	"image":"https://bit.ly/34dyzKu",	"movie":"",	"artist":"BTS"},
-{	"song":"Дикая львица (Dikaya lʹvitsa)",	"url":"https://bit.ly/3vwewTy",	"image":"https://bit.ly/3bUgpSy",		"movie":"",	"artist":"ALEX & RUS"},
-{	"song":"The Nights (Avicii)",		"url":"https://bit.ly/3yzzqmN",	"image":"https://bit.ly/3bT6217",		"movie":"",	"artist":"Avicii"},
-{	"song":"Taki Taki",			"url":"https://bit.ly/34lLjid",	"image":"https://bit.ly/2RIEvZu",		"movie":"",	"artist":"DJ Snake, Selena Gomez"},
-{	"song":"7 rings",			"url":"https://bit.ly/3ulHV1q",	"image":"https://bit.ly/3vfWx3P",		"movie":"",	"artist":"Ariana Grande"},
-{	"song":"Play Date",			"url":"https://bit.ly/3fIikuo",	"image":"https://bit.ly/3ulL55i",		"movie":"",	"artist":"Melanie Martinez"},
-{	"song":"Mehendi Wale Haath",		"url":"https://bit.ly/34vJgbu",	"image":"https://bit.ly/3vyao5R",		"movie":"",	"artist":"Sachet-Parampara, Guru Randhawa"},    
-{	"song":"Aata Majhi Satakli",		"url":"https://bit.ly/3hTNS33",	"image":"https://bit.ly/2StRoXc",		"movie":"Singham Returns",	"artist":"Yo Yo Honey Singh"},
-
-{	"song":"Call Aundi",			"url":"https://bit.ly/3bU45Sc",	"image":"https://bit.ly/3fPikJ2",		"movie":"Zorawar",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Mast Kalander",			"url":"https://bit.ly/3vnCbWq",	"image":"https://bit.ly/3yGPROr",		"movie":"",	"artist":"Mika Singh,Yo Yo Honey Singh"},
-{	"song":"Lonely",			"url":"https://bit.ly/3hUxGPo",	"image":"https://bit.ly/34fZi9o",		"movie":"Khiladi 786",	"artist":"Himesh Reshammiya,Yo Yo Honey Singh"},
-{	"song":"Party With The Bhootnath",	"url":"https://bit.ly/3vp3gbB",	"image":"https://bit.ly/3vhZukp",		"movie":"Bhootnath Returns",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Get Up Jawani",			"url":"https://bit.ly/3fleKYc",	"image":"https://bit.ly/34gkGez",		"movie":"",	"artist":"Yo Yo Honey Singh ft.Badshah"},
-{	"song":"Race 2 Mashup",			"url":"https://bit.ly/3oPf4Sd",	"image":"https://bit.ly/3fm0iiu",		"movie":"Race 2",	"artist":"Pritam,kk,Shefali Alvares,Yo Yo Honey Singh.Atif Aslam"},
-
-{	"song":"Moscow Mashuka",		"url":"https://bit.ly/3bUZYoN",	"image":"https://bit.ly/2Tl8tDp",		"movie":"",	"artist":"Yo Yo Honey Singh,Neha Kakkar,Ekaterina Sizova"},
-{	"song":"Rangtaari",			"url":"https://bit.ly/3hZcIP9",	"image":"https://bit.ly/3wAWLTi",		"movie":"Love Yatri",	"artist":"Dev Negi,Yo Yo Honey Singh"},
-{	"song":"Shor Machega",			"url":"https://bit.ly/3fKBQq5",	"image":"https://bit.ly/3oQm2pU",		"movie":"Mumbai Saga",	"artist":"Yo Yo Honey Singh,Hommie Dilliwale"},
-{	"song":"Mein Sharabi",			"url":"https://bit.ly/3oPLzQf",	"image":"https://bit.ly/3ulI8C0",		"movie":"Cocktail",	"artist":"Pritam,Imran Aziz Mian,Yo Yo Honey Singh"},
-{	"song":"Angreji Beat",			"url":"https://bit.ly/3fL06Zo",	"image":"https://bit.ly/3uqY8Cy",		"movie":"",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Birthday Bash",			"url":"https://bit.ly/3foDyhY",	"image":"https://bit.ly/3wAZNHa",		"movie":"Dilliwaali Zaalim Girlfriend",	"artist":"Yo Yo Honey Singh, Amanjot singh Panwar"},
-{	"song":"Aao Raja",			"url":"https://bit.ly/3fnplSn",	"image":"https://bit.ly/3fll1mM",		"movie":"Gabber is Back",	"artist":"Neha Kakkar, Yo Yo Honey Singh"},
-{	"song":"Boss",				"url":"https://bit.ly/2SrsCHm",	"image":"https://bit.ly/3fQoDMD",		"movie":"Boss",	"artist":"Meet Bros,Yo Yo Honey Singh"},
-{	"song":"Dope Shope",			"url":"https://bit.ly/2SsoPtl",	"image":"https://bit.ly/3uoQKHO",		"movie":"",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Aankhon Aankhon",		"url":"https://bit.ly/3ulLd52",	"image":"https://bit.ly/2SspJ9d",		"movie":"Bhaag Johnny",	"artist":"Yo Yo Honey Singh"},
-{	"song":"Rani Tu Mai Raja",		"url":"https://bit.ly/3yIz4KD",	"image":"https://bit.ly/3vozgfX",		"movie":"Son of Sardaar",	"artist":"Himesh Reshammiya, Mika Singh, Bhavya Pandit, Yo Yo Honey Singh"},
-{	"song":"One Bottle Down",		"url":"https://bit.ly/34j4Bov",	"image":"https://bit.ly/3hSZ0gP",		"movie":"",		"artist":"Yo Yo Honey Singh"},
-{	"song":"Yaar Naa Miley",		"url":"https://bit.ly/3g2aNab",	"image":"https://bit.ly/3fLiGAD",		"movie":"Kick",		"artist":"Yo Yo Honey Singh"},
-{	"song":"Issey Kehte Hain Hip Hop",	"url":"https://bit.ly/3yGP1kL",	"image":"https://bit.ly/3vpE4Si",		"movie":"",		"artist":"Yo Yo Honey Singh"},
-{	"song":"Urvashi",			"url":"https://bit.ly/2Tar9p8",	"image":"https://bit.ly/3oQV6Gx",		"movie":"",		"artist":"Yo Yo Honey Singh"},
-{	"song":"Gur Nalo Ishq Mitha-The Yoyo Remake",	"url":"https://bit.ly/3fK9L2m",	"image":"https://bit.ly/3i1aNtg",	"movie":"",		"artist":"Malkit Singh,Yo Yo Honey Singh"},
-{	"song":"Janam Janam",			"url":"https://bit.ly/3vAf0YT",	"image":"https://bit.ly/2RULZIX",		"movie":"Dilwaale",	"artist":"Antara Mitra, Arijit Singh"},
-{	"song":"Gerua",				"url":"https://bit.ly/2SErwbk",	"image":"https://bit.ly/3vL73A8",		"movie":"Dilwaale",	"artist":"Antara Mitra, Arijit Singh"},
-{	"song":"Manma Emotion Jaage",		"url":"https://bit.ly/3c3IqXQ",	"image":"https://bit.ly/3vCpyXB",		"movie":"Dilwaale",	"artist":"Anushka Manchanda, Amit Mishra, Antara Mitra"},
-{	"song":"Tukur Tukur",			"url":"https://bit.ly/3uxruiI",	"image":"https://bit.ly/3hYMRqF",		"movie":"Dilwaale",	"artist":"Neha Kakkar, Kanika Kapoor, Nakash Aziz, Siddharth Mahadevan, Arijit Singh"},
-{	"song":"Daayre",			"url":"https://bit.ly/3p1b2pT",	"image":"https://bit.ly/3yNgj9a",		"movie":"Dilwaale",	"artist":"Arijit Singh"},
-{	"song":"Premika",			"url":"https://bit.ly/3fRZf9j",	"image":"https://bit.ly/2SEsHYi",		"movie":"Dilwaale",	"artist":"Kanika Kapoor, Benny Dayal"},
-{	"song":"Theme of Dilwale (DJ Chetas Mix)","url":"https://bit.ly/3fx9yAF","image":"https://bit.ly/3i1XhWp",		"movie":"Dilwaale",	"artist":"Arjit Singh"},
-{	"song":"Aankhon Ki Gustakhiyan",	"url":"https://bit.ly/34uta28",	"image":"https://bit.ly/2SIbsFm",		"movie":"Hum Dil De Chuke Sanam",	"artist":"Kumar Sanu, Kavita Krishnamurthy"},
-{	"song":"Chand Chhupa Badal Mein",	"url":"https://bit.ly/3yPkNMg",	"image":"https://bit.ly/2RYHeOq",		"movie":"Hum Dil De Chuke Sanam",	"artist":"Udit Narayan, Alka Yagnik"},
-{	"song":"Tadap Tadap",			"url":"https://bit.ly/34uu7re",	"image":"https://bit.ly/3wHKCMp",		"movie":"Hum Dil De Chuke Sanam",	"artist":"KK, Dominique"},
-{	"song":"Albela Sajan",			"url":"https://bit.ly/2SCU1X5",	"image":"https://bit.ly/3DhxvZ5",		"movie":"Hum Dil De Chuke Sanam",	"artist":"Ustad Sultan Khan, Shankar Mahadevan, Kavita Krishnamurthy"},
-    {	"song":"Kesariya (Brahmastra)",			"url":"https://bit.ly/3DiwWhw",	"image":"https://bit.ly/3Bx79Ri",		"movie":"Brahmastra",	"artist":"Pritam, Arijit Singh, Amitabh Bhattacharya"}
-
-];
+	{
+		"song": "7 rings",
+		"url": "https://bit.ly/3ulHV1q",
+		"image": "https://bit.ly/3vfWx3P",
+		"movie": "",
+		"artist": "Ariana Grande"
+	},
+	{
+		"song": "Aankhon Aankhon",
+		"url": "https://bit.ly/3ulLd52",
+		"image": "https://bit.ly/2SspJ9d",
+		"movie": "Bhaag Johnny",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Aankhon Ki Gustakhiyan",
+		"url": "https://bit.ly/34uta28",
+		"image": "https://bit.ly/2SIbsFm",
+		"movie": "Hum Dil De Chuke Sanam",
+		"artist": "Kumar Sanu, Kavita Krishnamurthy"
+	},
+	{
+		"song": "Aao Raja",
+		"url": "https://bit.ly/3fnplSn",
+		"image": "https://bit.ly/3fll1mM",
+		"movie": "Gabber is Back",
+		"artist": "Neha Kakkar, Yo Yo Honey Singh"
+	},
+	{
+		"song": "Aata Majhi Satakli",
+		"url": "https://bit.ly/3hTNS33",
+		"image": "https://bit.ly/2StRoXc",
+		"movie": "Singham Returns",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Ae Mere Humsafar",
+		"url": "https://bit.ly/3ycA5ul",
+		"movie": "Qayamat se Qyamat Tak",
+		"image": "https://bit.ly/2QaEqgm",
+		"artist": ""
+	},
+	{
+		"song": "Ae Mere Humsafar.",
+		"url": "https://bit.ly/33HTc19",
+		"movie": "All Is Well",
+		"image": "https://bit.ly/2QkcTZX",
+		"artist": ""
+	},
+	{
+		"song": "Akh Lad Jaave",
+		"url": "https://bit.ly/2RfGqnY",
+		"movie": "Love Yatri",
+		"image": "https://bit.ly/3o73ZeK",
+		"artist": ""
+	},
+	{
+		"song": "Albela Sajan",
+		"url": "https://bit.ly/2SCU1X5",
+		"image": "https://bit.ly/3DhxvZ5",
+		"movie": "Hum Dil De Chuke Sanam",
+		"artist": "Ustad Sultan Khan, Shankar Mahadevan, Kavita Krishnamurthy"
+	},
+	{
+		"song": "Angreji Beat",
+		"url": "https://bit.ly/3fL06Zo",
+		"image": "https://bit.ly/3uqY8Cy",
+		"movie": "",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Birthday Bash",
+		"url": "https://bit.ly/3foDyhY",
+		"image": "https://bit.ly/3wAZNHa",
+		"movie": "Dilliwaali Zaalim Girlfriend",
+		"artist": "Yo Yo Honey Singh, Amanjot singh Panwar"
+	},
+	{
+		"song": "Blood Sweat & Tears",
+		"url": "https://bit.ly/3fMibWG",
+		"image": "https://bit.ly/3wB2CZ1",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Boss",
+		"url": "https://bit.ly/2SrsCHm",
+		"image": "https://bit.ly/3fQoDMD",
+		"movie": "Boss",
+		"artist": "Meet Bros,Yo Yo Honey Singh"
+	},
+	{
+		"song": "Boy With luv (ft.Halsey)",
+		"url": "https://bit.ly/3bSie2i",
+		"image": "https://bit.ly/3fnzNtn",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Butter",
+		"url": "https://bit.ly/2T7JH9w",
+		"image": "https://bit.ly/3wB03WT",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Call Aundi",
+		"url": "https://bit.ly/3bU45Sc",
+		"image": "https://bit.ly/3fPikJ2",
+		"movie": "Zorawar",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Care Ni Karda",
+		"url": "https://bit.ly/3y5P2OG",
+		"movie": "Challang",
+		"image": "https://bit.ly/3tOxZxk",
+		"artist": ""
+	},
+	{
+		"song": "Chal Ghar Chalein",
+		"url": "https://bit.ly/3hB8ahN",
+		"movie": "Malang",
+		"image": "https://bit.ly/3tZWI1A",
+		"artist": ""
+	},
+	{
+		"song": "Challa (Main Lad Jaana)",
+		"url": "https://bit.ly/3ym8fvD",
+		"movie": "URI",
+		"image": "https://bit.ly/3oxtgil",
+		"artist": "Romy, Vivek Hariharan, Shashwat Sachdev"
+	},
+	{
+		"song": "Chand Chhupa Badal Mein",
+		"url": "https://bit.ly/3yPkNMg",
+		"image": "https://bit.ly/2RYHeOq",
+		"movie": "Hum Dil De Chuke Sanam",
+		"artist": "Udit Narayan, Alka Yagnik"
+	},
+	{
+		"song": "Chhor Denge",
+		"url": "https://bit.ly/3hrOdtN",
+		"movie": "",
+		"image": "https://bit.ly/3oiw8j2",
+		"artist": "Sachet-Parampara"
+	},
+	{
+		"song": "DNA",
+		"url": "https://bit.ly/2RKA9AX",
+		"image": "https://bit.ly/2SjFm2J",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Daayre",
+		"url": "https://bit.ly/3p1b2pT",
+		"image": "https://bit.ly/3yNgj9a",
+		"movie": "Dilwaale",
+		"artist": "Arijit Singh"
+	},
+	{
+		"song": "Doob Gaye",
+		"url": "https://bit.ly/2SRTPmS",
+		"movie": "",
+		"image": "https://bit.ly/3w8KTYG",
+		"artist": "Guru Randhawa"
+	},
+	{
+		"song": "Dope",
+		"url": "https://bit.ly/3ujPlCg",
+		"image": "https://bit.ly/3hNG9ni",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Dope Shope",
+		"url": "https://bit.ly/2SsoPtl",
+		"image": "https://bit.ly/3uoQKHO",
+		"movie": "",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Dynamite",
+		"url": "https://bit.ly/3fKKHIw",
+		"image": "https://bit.ly/3wtAdE0",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Echo (with KSHMR)",
+		"url": "https://bit.ly/34bHNXL",
+		"image": "https://bit.ly/3wwrjpw",
+		"movie": "",
+		"artist": "Armaan Malik, Eric Nam"
+	},
+	{
+		"song": "FAKE LOVE",
+		"url": "https://bit.ly/2RBdyqN",
+		"image": "https://bit.ly/3wwelYO",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Falling",
+		"url": "https://bit.ly/3ymQPiw",
+		"movie": "",
+		"image": "https://bit.ly/2RvaYCs",
+		"artist": "Trever Daniel"
+	},
+	{
+		"song": "Fearless",
+		"url": "https://bit.ly/3aE73tz",
+		"movie": "",
+		"image": "https://bit.ly/2SEBxoV",
+		"artist": ""
+	},
+	{
+		"song": "Filter",
+		"url": "https://bit.ly/3fKKW6o",
+		"image": "https://bit.ly/3yDbCyj",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "First Kiss",
+		"url": "https://bit.ly/3uXQTmI",
+		"movie": "",
+		"image": "https://bit.ly/3fw2lzk",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Gali Gali Me Phirta Hai",
+		"url": "https://bit.ly/3eCs6id",
+		"movie": "Kolar Gold Films (KGF)",
+		"image": "https://bit.ly/3bfngWj",
+		"artist": ""
+	},
+	{
+		"song": "Gerua",
+		"url": "https://bit.ly/2SErwbk",
+		"image": "https://bit.ly/3vL73A8",
+		"movie": "Dilwaale",
+		"artist": "Antara Mitra, Arijit Singh"
+	},
+	{
+		"song": "Get Up Jawani",
+		"url": "https://bit.ly/3fleKYc",
+		"image": "https://bit.ly/34gkGez",
+		"movie": "",
+		"artist": "Yo Yo Honey Singh ft.Badshah"
+	},
+	{
+		"song": "Ghungroo",
+		"url": "https://bit.ly/2QrCQ9Z",
+		"movie": "War",
+		"image": "https://bit.ly/3bzXo7G",
+		"artist": ""
+	},
+	{
+		"song": "Gur Nalo Ishq Mitha-The Yoyo Remake",
+		"url": "https://bit.ly/3fK9L2m",
+		"image": "https://bit.ly/3i1aNtg",
+		"movie": "",
+		"artist": "Malkit Singh,Yo Yo Honey Singh"
+	},
+	{
+		"song": "Hislerim",
+		"url": "https://bit.ly/3fD9LAU",
+		"movie": "",
+		"image": "https://bit.ly/3tDQ9ls",
+		"artist": "Serhat Durmus"
+	},
+	{
+		"song": "Hui me",
+		"url": "https://bit.ly/2SW0OLr",
+		"movie": "Malang",
+		"image": "https://bit.ly/33QIYMe",
+		"artist": ""
+	},
+	{
+		"song": "Humraah",
+		"url": "https://bit.ly/3op9gi4",
+		"movie": "Malang",
+		"image": "https://bit.ly/3yi1cEi",
+		"artist": ""
+	},
+	{
+		"song": "IDOL",
+		"url": "https://bit.ly/2QMG5ZM",
+		"image": "https://bit.ly/3fieqtj",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Illegal Weapon 2.0",
+		"url": "https://bit.ly/3bzrpob",
+		"movie": "Street Dancer",
+		"image": "https://bit.ly/3wdxq1u",
+		"artist": "Jasmine Sandlas, Garry Sandhu"
+	},
+	{
+		"song": "Issey Kehte Hain Hip Hop",
+		"url": "https://bit.ly/3yGP1kL",
+		"image": "https://bit.ly/3vpE4Si",
+		"movie": "",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Jai Jai Shiv Shankar",
+		"url": "https://bit.ly/3fqehmh",
+		"movie": "War",
+		"image": "https://bit.ly/3ftzyeN",
+		"artist": ""
+	},
+	{
+		"song": "Janam Janam",
+		"url": "https://bit.ly/3vAf0YT",
+		"image": "https://bit.ly/2RULZIX",
+		"movie": "Dilwaale",
+		"artist": "Antara Mitra, Arijit Singh"
+	},
+	{
+		"song": "Kabir's Theme (Instrumental)",
+		"url": "https://bit.ly/3uZCNRO",
+		"movie": "War",
+		"image": "https://bit.ly/3fwNm8j",
+		"artist": ""
+	},
+	{
+		"song": "Kesariya (Brahmastra)",
+		"url": "https://bit.ly/3DiwWhw",
+		"image": "https://bit.ly/3Bx79Ri",
+		"movie": "Brahmastra",
+		"artist": "Pritam, Arijit Singh, Amitabh Bhattacharya"
+	},
+	{
+		"song": "Khalid's Theme (Instrumental)",
+		"url": "https://bit.ly/3yoMYSc",
+		"movie": "War",
+		"image": "https://bit.ly/3fwNm8j",
+		"artist": ""
+	},
+	{
+		"song": "Let Me Love You",
+		"url": "https://bit.ly/3euaTX7",
+		"movie": "",
+		"image": "https://bit.ly/3eG3NjC",
+		"artist": ""
+	},
+	{
+		"song": "Lonely",
+		"url": "https://bit.ly/3hUxGPo",
+		"image": "https://bit.ly/34fZi9o",
+		"movie": "Khiladi 786",
+		"artist": "Himesh Reshammiya,Yo Yo Honey Singh"
+	},
+	{
+		"song": "Lost In Sound",
+		"url": "https://bit.ly/3eJ6nnJ",
+		"movie": "",
+		"image": "https://bit.ly/3o8iwac",
+		"artist": ""
+	},
+	{
+		"song": "Lut Gaye (Jubin Nautiyal)",
+		"url": "https://bit.ly/32Pr23U",
+		"movie": "",
+		"image": "https://bit.ly/2RHYjvG",
+		"artist": ""
+	},
+	{
+		"song": "MIC Drop (Steve Aoki Remix) [Full Length Edition]",
+		"url": "https://bit.ly/2RBTncg",
+		"image": "https://bit.ly/34dyzKu",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Machayenge 3",
+		"url": "https://bit.ly/2RdqO4J",
+		"movie": "",
+		"image": "https://bit.ly/3fiKMmt",
+		"artist": "Emiway Bantai"
+	},
+	{
+		"song": "Makhna",
+		"url": "https://bit.ly/3tUnusk",
+		"movie": "",
+		"image": "https://bit.ly/3uZGsPy",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Makhna.",
+		"url": "https://bit.ly/3osrrTS",
+		"movie": "Drive",
+		"image": "https://bit.ly/3eW3S2O",
+		"artist": "Tanishk Bagchi"
+	},
+	{
+		"song": "Malang",
+		"url": "https://bit.ly/2RkAU3P",
+		"movie": "Dhoom 3",
+		"image": "https://bit.ly/3wkFWMv",
+		"artist": "Shilpa Rao, Siddharth Mahadevan"
+	},
+	{
+		"song": "Malang (Title Track)",
+		"url": "https://bit.ly/2S4ICyZ",
+		"movie": "Malang",
+		"image": "https://bit.ly/3yjPtVN",
+		"artist": "Ved Sharma"
+	},
+	{
+		"song": "Manma Emotion Jaage",
+		"url": "https://bit.ly/3c3IqXQ",
+		"image": "https://bit.ly/3vCpyXB",
+		"movie": "Dilwaale",
+		"artist": "Anushka Manchanda, Amit Mishra, Antara Mitra"
+	},
+	{
+		"song": "Mast Kalander",
+		"url": "https://bit.ly/3vnCbWq",
+		"image": "https://bit.ly/3yGPROr",
+		"movie": "",
+		"artist": "Mika Singh,Yo Yo Honey Singh"
+	},
+	{
+		"song": "Mehendi Wale Haath",
+		"url": "https://bit.ly/34vJgbu",
+		"image": "https://bit.ly/3vyao5R",
+		"movie": "",
+		"artist": "Sachet-Parampara, Guru Randhawa"
+	},
+	{
+		"song": "Mein Sharabi",
+		"url": "https://bit.ly/3oPLzQf",
+		"image": "https://bit.ly/3ulI8C0",
+		"movie": "Cocktail",
+		"artist": "Pritam,Imran Aziz Mian,Yo Yo Honey Singh"
+	},
+	{
+		"song": "Memba",
+		"url": "https://bit.ly/3eVfz9S",
+		"movie": "The Sky Is Pink",
+		"image": "https://bit.ly/3fjoK34",
+		"artist": ""
+	},
+	{
+		"song": "Mortals-Wariyo",
+		"url": "https://bit.ly/3aEsvhU",
+		"movie": "",
+		"image": "https://bit.ly/2Qb4LuG",
+		"artist": ""
+	},
+	{
+		"song": "Moscow Mashuka",
+		"url": "https://bit.ly/3bUZYoN",
+		"image": "https://bit.ly/2Tl8tDp",
+		"movie": "",
+		"artist": "Yo Yo Honey Singh,Neha Kakkar,Ekaterina Sizova"
+	},
+	{
+		"song": "Nazm Nazm sa",
+		"url": "https://bit.ly/3hjujkq",
+		"movie": "Barfi",
+		"image": "https://bit.ly/2QcS7eT",
+		"artist": ""
+	},
+	{
+		"song": "Not Today",
+		"url": "https://bit.ly/3fiLamg",
+		"image": "https://bit.ly/34eBYsH",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "O Re Piya",
+		"url": "https://bit.ly/3RRaWPr",
+		"movie": "",
+		"image": "https://bit.ly/3L7rUGz",
+		"artist": ""
+	},
+	{
+		"song": "On & On",
+		"url": "https://bit.ly/3aW0frp",
+		"movie": "",
+		"image": "https://bit.ly/3uJSqNh",
+		"artist": ""
+	},
+	{
+		"song": "One Bottle Down",
+		"url": "https://bit.ly/34j4Bov",
+		"image": "https://bit.ly/3hSZ0gP",
+		"movie": "",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Party With The Bhootnath",
+		"url": "https://bit.ly/3vp3gbB",
+		"image": "https://bit.ly/3vhZukp",
+		"movie": "Bhootnath Returns",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Phir Na Mile Kabhi",
+		"url": "https://bit.ly/33TXsej",
+		"movie": "Malang",
+		"image": "https://bit.ly/3whqcKa",
+		"artist": "Ankit Tiwari"
+	},
+	{
+		"song": "Play Date",
+		"url": "https://bit.ly/3fIikuo",
+		"image": "https://bit.ly/3ulL55i",
+		"movie": "",
+		"artist": "Melanie Martinez"
+	},
+	{
+		"song": "Premika",
+		"url": "https://bit.ly/3fRZf9j",
+		"image": "https://bit.ly/2SEsHYi",
+		"movie": "Dilwaale",
+		"artist": "Kanika Kapoor, Benny Dayal"
+	},
+	{
+		"song": "Race 2 Mashup",
+		"url": "https://bit.ly/3oPf4Sd",
+		"image": "https://bit.ly/3fm0iiu",
+		"movie": "Race 2",
+		"artist": "Pritam,kk,Shefali Alvares,Yo Yo Honey Singh.Atif Aslam"
+	},
+	{
+		"song": "Rangtaari",
+		"url": "https://bit.ly/3hZcIP9",
+		"image": "https://bit.ly/3wAWLTi",
+		"movie": "Love Yatri",
+		"artist": "Dev Negi,Yo Yo Honey Singh"
+	},
+	{
+		"song": "Rani Tu Mai Raja",
+		"url": "https://bit.ly/3yIz4KD",
+		"image": "https://bit.ly/3vozgfX",
+		"movie": "Son of Sardaar",
+		"artist": "Himesh Reshammiya, Mika Singh, Bhavya Pandit, Yo Yo Honey Singh"
+	},
+	{
+		"song": "Saiyan Ji",
+		"url": "https://bit.ly/2SPHqj9",
+		"movie": "",
+		"image": "https://bit.ly/3u2U9fb",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Salam-E-Ishq Meri Jaan",
+		"url": "https://bit.ly/2QUagON",
+		"movie": "Muqaddar Ka Sikandar",
+		"image": "https://bit.ly/3fmIyni",
+		"artist": "Kalyanji Anandji, Lata Mangeshkar, Kishore Kumar"
+	},
+	{
+		"song": "Scam 1992(theme)",
+		"url": "https://bit.ly/2PlnTps",
+		"movie": "Scam 1992",
+		"image": "https://bit.ly/3eFm8gx",
+		"artist": ""
+	},
+	{
+		"song": "Seeti Maar",
+		"url": "https://bit.ly/3bOBpKo",
+		"movie": "Radhe - Your Most Wanted Bhai",
+		"image": "https://bit.ly/3fHU9w1",
+		"artist": "Himesh Reshammiya"
+	},
+	{
+		"song": "Shape Of You",
+		"url": "https://bit.ly/3Bv1gEo",
+		"movie": "",
+		"image": "https://bit.ly/3o6oRmz",
+		"artist": "Ed Sheeran"
+	},
+	{
+		"song": "Shayad",
+		"url": "https://bit.ly/3bE83hP",
+		"movie": "Love Aaj Kal",
+		"image": "https://bit.ly/3tWSQhT",
+		"artist": "Arjit Singh"
+	},
+	{
+		"song": "Shor Machega",
+		"url": "https://bit.ly/3fKBQq5",
+		"image": "https://bit.ly/3oQm2pU",
+		"movie": "Mumbai Saga",
+		"artist": "Yo Yo Honey Singh,Hommie Dilliwale"
+	},
+	{
+		"song": "Spring Day",
+		"url": "https://bit.ly/2ThAbAX",
+		"image": "https://bit.ly/2RBSyAc",
+		"movie": "",
+		"artist": "BTS"
+	},
+	{
+		"song": "Tadap Tadap",
+		"url": "https://bit.ly/34uu7re",
+		"image": "https://bit.ly/3wHKCMp",
+		"movie": "Hum Dil De Chuke Sanam",
+		"artist": "KK, Dominique"
+	},
+	{
+		"song": "Taki Taki",
+		"url": "https://bit.ly/34lLjid",
+		"image": "https://bit.ly/2RIEvZu",
+		"movie": "",
+		"artist": "DJ Snake, Selena Gomez"
+	},
+	{
+		"song": "Tera Zikr",
+		"url": "https://bit.ly/3uIC0ob",
+		"movie": "",
+		"image": "https://bit.ly/3tHS48z",
+		"artist": ""
+	},
+	{
+		"song": "The Nights (Avicii)",
+		"url": "https://bit.ly/3yzzqmN",
+		"image": "https://bit.ly/3bT6217",
+		"movie": "",
+		"artist": "Avicii"
+	},
+	{
+		"song": "Theme of Dilwale (DJ Chetas Mix)",
+		"url": "https://bit.ly/3fx9yAF",
+		"image": "https://bit.ly/3i1XhWp",
+		"movie": "Dilwaale",
+		"artist": "Arjit Singh"
+	},
+	{
+		"song": "Thoda Thoda Pyar",
+		"url": "https://bit.ly/3oq9C8c",
+		"movie": "",
+		"image": "https://bit.ly/3QPypzb",
+		"artist": "Stebin Ben, Nilesh Ahuja"
+	},
+	{
+		"song": "Tokyo Drift",
+		"url": "https://bit.ly/3u8L8Cr",
+		"movie": "Fast And Furious",
+		"image": "https://bit.ly/3fhkyk6",
+		"artist": ""
+	},
+	{
+		"song": "Tujhe Kitna Chahne Lage",
+		"url": "https://bit.ly/3bGfkxp",
+		"movie": "Kabir Singh",
+		"image": "https://bit.ly/33XiNmZ",
+		"artist": "Arjit Singh"
+	},
+	{
+		"song": "Tukur Tukur",
+		"url": "https://bit.ly/3uxruiI",
+		"image": "https://bit.ly/3hYMRqF",
+		"movie": "Dilwaale",
+		"artist": "Neha Kakkar, Kanika Kapoor, Nakash Aziz, Siddharth Mahadevan, Arijit Singh"
+	},
+	{
+		"song": "Tum Saath Ho",
+		"url": "https://bit.ly/2QcV5Qz",
+		"movie": "Tamasha",
+		"image": "https://bit.ly/3QPzrex",
+		"artist": ""
+	},
+	{
+		"song": "Tum hi ho",
+		"url": "https://bit.ly/3vY8Gua",
+		"movie": "Aashiqui 2",
+		"image": "https://bit.ly/3w3vZTc",
+		"artist": ""
+	},
+	{
+		"song": "Tumhi Dekho Na",
+		"url": "https://bit.ly/3eGeF14",
+		"movie": "Kabhi Alvida Na Kehna",
+		"image": "https://bit.ly/2SKC7BG",
+		"artist": ""
+	},
+	{
+		"song": "Urvashi",
+		"url": "https://bit.ly/2Tar9p8",
+		"image": "https://bit.ly/3oQV6Gx",
+		"movie": "",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Wafa Na Raas Aayee",
+		"url": "https://bit.ly/3uL7LgE",
+		"movie": "",
+		"image": "https://bit.ly/3hlmhaS",
+		"artist": ""
+	},
+	{
+		"song": "War Theme (Instrumental)",
+		"url": "https://bit.ly/3ykXFoP",
+		"movie": "War",
+		"image": "https://bit.ly/3fwNm8j",
+		"artist": ""
+	},
+	{
+		"song": "Yaar Naa Miley",
+		"url": "https://bit.ly/3g2aNab",
+		"image": "https://bit.ly/3fLiGAD",
+		"movie": "Kick",
+		"artist": "Yo Yo Honey Singh"
+	},
+	{
+		"song": "Дикая львица (Dikaya lʹvitsa)",
+		"url": "https://bit.ly/3vwewTy",
+		"image": "https://bit.ly/3bUgpSy",
+		"movie": "",
+		"artist": "ALEX & RUS"
+	}
+]
