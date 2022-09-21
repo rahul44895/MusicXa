@@ -126,6 +126,13 @@
 		"artist": ""
 	},
 	{
+		"song": "Chal Wahan Jaate Hain",
+		"url": "https://bit.ly/3r1xZLe",
+		"image": "https://bit.ly/3f5BQEw",
+		"movie": "Chal Wahan Jaate Hain",
+		"artist": "Arijit Singh"
+	},
+	{
 		"song": "Challa (Main Lad Jaana)",
 		"url": "https://bit.ly/3ym8fvD",
 		"movie": "URI",
@@ -712,13 +719,6 @@
 		"image": "https://bit.ly/3fLiGAD",
 		"movie": "Kick",
 		"artist": "Yo Yo Honey Singh"
-	},
-	{
-		"song": "Chal Wahan Jaate Hain",
-		"url": "https://bit.ly/3r1xZLe",
-		"image": "https://bit.ly/3f5BQEw",
-		"movie": "Chal Wahan Jaate Hain",
-		"artist": "Arijit Singh"
 	},
 	{
 		"song": "Дикая львица (Dikaya lʹvitsa)",
