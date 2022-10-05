@@ -88,6 +88,22 @@
 		"year": "2012"
 	},
 	{
+		"song": "Baarish Aayi Hai",
+		"url": "https://bit.ly/3RD8xH6",
+		"image": "https://bit.ly/3yj0UPk",
+		"movie": "",
+		"artist": "Javed-Mohsin, Stebin Ben, Shreya Ghoshal",
+		"year": "2022"
+	},
+	{
+		"song": "Baarish Mein Tum",
+		"url": "https://bit.ly/3CDspFS",
+		"image": "https://bit.ly/3yjI8Hf",
+		"movie": "",
+		"artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd, Harsh Kargeti",
+		"year": "2022"
+	},
+	{
 		"song": "Birthday Bash",
 		"url": "https://bit.ly/3foDyhY",
 		"image": "https://bit.ly/3wAZNHa",
@@ -200,6 +216,14 @@
 		"year": "2015"
 	},
 	{
+		"song": "Dhokha",
+		"url": "https://bit.ly/3fKHFHT",
+		"image": "https://bit.ly/3e7jxyO",
+		"movie": "",
+		"artist": "Arijit Singh, Manan Bhardwaj",
+		"year": "2022"
+	},
+	{
 		"song": "Doob Gaye",
 		"url": "https://bit.ly/2SRTPmS",
 		"movie": "",
@@ -280,6 +304,14 @@
 		"year": "2020"
 	},
 	{
+		"song": "Fitoor",
+		"url": "https://bit.ly/3RyKclC",
+		"image": "https://bit.ly/3M9hFlr",
+		"movie": "Shamshera",
+		"artist": "Mithoon, Arijit Singh, Neeti Mohan, Karan Malhotra",
+		"year": "2022"
+	},
+	{
 		"song": "Gali Gali Me Phirta Hai",
 		"url": "https://bit.ly/3eCs6id",
 		"movie": "Kolar Gold Films (KGF)",
@@ -352,6 +384,14 @@
 		"year": "2018"
 	},
 	{
+		"song": "Ijazzat Hai",
+		"url": "https://bit.ly/3fNr6Lu",
+		"image": "https://bit.ly/3T2mbVl",
+		"movie": "",
+		"artist": "Raj Barman",
+		"year": "2022"
+	},
+	{
 		"song": "Illegal Weapon 2.0",
 		"url": "https://bit.ly/3bzrpob",
 		"movie": "Street Dancer",
@@ -422,6 +462,14 @@
 		"movie": "Sharmilee",
 		"artist": "S. D. Burman, Kishore Kumar",
 		"year": "2009"
+	},
+	{
+		"song": "Kuch Baatein",
+		"url": "https://bit.ly/3C9ksXn",
+		"image": "https://bit.ly/3EkZHKP",
+		"movie": "",
+		"artist": "Payal Dev, Jubin Nautiyal",
+		"year": "2022"
 	},
 	{
 		"song": "Let Me Love You",
@@ -550,6 +598,14 @@
 		"movie": "",
 		"artist": "Mika Singh,Yo Yo Honey Singh",
 		"year": "2014"
+	},
+	{
+		"song": "Meethi Meethi",
+		"url": "https://bit.ly/3e9rrHL",
+		"image": "https://bit.ly/3RzcvAx",
+		"movie": "",
+		"artist": "Jubin Nautiyal, Payal Dev, Rashmi Virag",
+		"year": "2022"
 	},
 	{
 		"song": "Mehendi Wale Haath",
@@ -806,6 +862,14 @@
 		"image": "https://bit.ly/3tHS48z",
 		"artist": "Darshan Raval",
 		"year": "2017"
+	},
+	{
+		"song": "Teri Galliyon Se",
+		"url": "https://bit.ly/3CyI6Os",
+		"image": "https://bit.ly/3rwmtIa",
+		"movie": "",
+		"artist": "Jubin Nautiyal, Meet Bros",
+		"year": "2022"
 	},
 	{
 		"song": "The Nights (Avicii)",
