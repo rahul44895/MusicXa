@@ -72,6 +72,14 @@
 		"year": "1999"
 	},
 	{
+		"song": "Alcoholic",
+		"url": "https://bit.ly/3ru3YEn",
+		"image": "https://bit.ly/3e5CqSv",
+		"movie": "The Shaukeens",
+		"artist": "Yo Yo Honey Singh",
+		"year": "2014"
+	},
+	{
 		"song": "Angreji Beat",
 		"url": "https://bit.ly/3fL06Zo",
 		"image": "https://bit.ly/3uqY8Cy",
@@ -376,6 +384,14 @@
 		"year": "2015"
 	},
 	{
+		"song": "Jugjugg Jeeyo",
+		"url": "https://bit.ly/3Cbs23z",
+		"image": "https://bit.ly/3SKh1h2",
+		"movie": "Jugjugg Jeeyo",
+		"artist": "Tanishk Bagchi",
+		"year": "2022"
+	},
+	{
 		"song": "Kabir's Theme (Instrumental)",
 		"url": "https://bit.ly/3uZCNRO",
 		"movie": "War",
@@ -422,6 +438,14 @@
 		"movie": "Khiladi 786",
 		"artist": "Himesh Reshammiya,Yo Yo Honey Singh",
 		"year": "2012"
+	},
+	{
+		"song": "Lonely",
+		"url": "https://bit.ly/3RE9C1l",
+		"image": "https://bit.ly/3e5CqSv",
+		"movie": "The Shaukeens",
+		"artist": "Anu Malik",
+		"year": "2014"
 	},
 	{
 		"song": "Lost In Sound",
@@ -486,6 +510,30 @@
 		"image": "https://bit.ly/3yjPtVN",
 		"artist": "Ved Sharma",
 		"year": "2020"
+	},
+	{
+		"song": "Manali Trance",
+		"url": "https://bit.ly/3SDcgpr",
+		"image": "https://bit.ly/3e5CqSv",
+		"movie": "The Shaukeens",
+		"artist": "Lil Golu, Neha Kakkar",
+		"year": "2014"
+	},
+	{
+		"song": "Manike (From \"Thank God\")",
+		"url": "https://bit.ly/3M9pO9r",
+		"image": "https://bit.ly/3SZX2dA",
+		"movie": "Thank God",
+		"artist": "Yohani, Jubin Nautiyal, Tanishk Bagchi, Surya Ragunaathan, Chamath Sangeeth",
+		"year": "2022"
+	},
+	{
+		"song": "Manike Mage Hithe",
+		"url": "https://bit.ly/3Eg8ePp",
+		"image": "https://bit.ly/3C76R2F",
+		"movie": "Manike Mage Hithe",
+		"artist": "Chamath Sangeeth, Yohani, Satheeshan",
+		"year": "2021"
 	},
 	{
 		"song": "Manma Emotion Jaage",
