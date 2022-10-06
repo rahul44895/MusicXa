@@ -1,10 +1,462 @@
 [
-  {
-    "artistName": "Arijit Singh",
-    "artistImage" : "https://bit.ly/3T32EnK"
-  }  ,
-  {
-    "artistName": "Darshan Raval",
-    "artistImage" : "https://bit.ly/3T0aqhX"
-  }  
+	{
+		"artistName": "ALEX & RUS",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Achint",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Aditya RK",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Alka Yagnik",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Amanjot singh Panwar",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Amit Mishra",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Amitabh Bhattacharya",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Anand-Milind",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Ankit Tiwari",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Antara Mitra",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Anu Malik",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Anushka Manchanda",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Ariana Grande",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Arijit Singh",
+		"artistImage": "https://bit.ly/3T32EnK"
+	},
+	{
+		"artistName": "Arko Pravo Mukherjee",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Armaan Malik",
+		"artistImage": "https://bit.ly/3Vc6e0K"
+	},
+	{
+		"artistName": "Asees Kaur",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Atif Aslam",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Avicii",
+		"artistImage": ""
+	},
+	{
+		"artistName": "BTS",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Badshah",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Balasubrahmanyam",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Benny Dayal",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Bhavya Pandit",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Burman",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Cartoon",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Chamath Sangeeth",
+		"artistImage": ""
+	},
+	{
+		"artistName": "D",
+		"artistImage": ""
+	},
+	{
+		"artistName": "DJ Snake",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Darshan Raval",
+		"artistImage": "https://bit.ly/3T0aqhX"
+	},
+	{
+		"artistName": "Dev Negi",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Dominique",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Ed Sheeran",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Ekaterina Sizova",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Emiway Bantai",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Eric Nam",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Evaan Giia",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Garry Sandhu",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Guru Randhawa",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Harsh Kargeti",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Himesh Reshammiya",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Hommie Dilliwale",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Imran Aziz Mian",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Jasmine Sandlas",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Javed-Mohsin",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Jubin Nautiyal",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Justin Bieber",
+		"artistImage": ""
+	},
+	{
+		"artistName": "KK",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Kalyanji Anandji",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Kanika Kapoor",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Karan Malhotra",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Kavita",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Kavita Krishnamurthy",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Kishore Kumar",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Krishnamurthy",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Kumar Sanu",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Lata Mangeshkar",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Laxmikant - Pyarelal",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Lil Golu",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Malkit Singh",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Manan Bhardwaj",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Meet Bros",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Melanie Martinez",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Mika Singh",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Mithoon",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Nakash Aziz",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Neeti Mohan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Neha Kakkar",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Nikhil-Vinay",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Nilesh Ahuja",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Nooran Sister's",
+		"artistImage": ""
+	},
+	{
+		"artistName": "P",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Payal Dev",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Pritam",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Rahat Fateh Ali Khan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Raj Barman",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Rashmi Virag",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Rohanpreet Singh",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Romy",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Roy Knox",
+		"artistImage": ""
+	},
+	{
+		"artistName": "S",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Sachet Tandon",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Sachet-Parampara",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Sanchit Balhara",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Satheeshan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Selena Gomez",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Serhat Durmus",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Shankar Ehsaan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Shankar Mahadevan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Shashwat Sachdev",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Shefali Alvares",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Shilpa Rao",
+		"artistImage": ""
+	},
+	{
+		"artistName": "ShowKidd",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Shreya Ghoshal",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Siddharth Mahadevan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Sonu Nigam",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Stebin Ben",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Surya Ragunaathan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Sweetaj Brar",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Tanishk Bagchi",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Taylor Swift",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Teriyaki Boyz",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Trever Daniel",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Tulsi Kumar",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Udit Narayan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Usha Khanna",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Ustad Sultan Khan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Ved Sharma",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Vishal Dadlani",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Vivek Hariharan",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Wariyo",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Yo Yo Honey Singh",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Yo Yo Honey Singh ft",
+		"artistImage": ""
+	},
+	{
+		"artistName": "Yohani",
+		"artistImage": ""
+	},
+	{
+		"artistName": "kk",
+		"artistImage": ""
+	}
 ]
