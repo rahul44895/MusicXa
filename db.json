@@ -946,7 +946,71 @@
 		"artist": "Lata Mangeshkar, Kishore Kumar, Mohammed Rafi",
 		"year": "1977"
 	},
-	
+	{	
+          "song": "Tere Liye",
+		"url": "https://bit.ly/3Viw0jZ",
+		"image": "https://bit.ly/3EoBwLE",
+          "movie": "Veer-Zaara ",
+		"artist": " Lata Mangeshkar, Roopkumar Rathod, Salim-Sulaiman, Javed Akhtar",
+		"year": "2004"
+	},
+{	
+          "song": "Aap Ki Ankhon Mein Kuch",
+		"url": "https://bit.ly/3RGWs3o",
+		"image": "https://bit.ly/3T3VpMl",
+          "movie": "Ghar ",
+		"artist": "Kishore Kumar, Lata Mangeshkar ",
+		"year": "1978"
+	},
+{	
+          "song": "Kabhi Kabhi Mere Dil Mein Duet",
+		"url": "https://bit.ly/3yiv594",
+		"image": "https://bit.ly/3RFixzz",
+          "movie": "Kabhi Kabhie ",
+		"artist": " Mukesh, Lata Mangeshkar",
+		"year": "1976"
+	},
+{	
+          "song": "O Paalanhaare",
+		"url": "https://bit.ly/3CyHg46",
+		"image": "https://bit.ly/3V6QH1R",
+          "movie": "Lagaan",
+		"artist": "  A.R. Rahman, Lata Mangeshkar, Udit Narayan",
+		"year": "2001"
+	},
+{	
+          "song": "Mere Pyar Ki Umar Ho Itnee Sanam",
+		"url": "https://bit.ly/3CDvW73",
+		"image": "https://bit.ly/3El3B6L",
+          "movie": "Waaris",
+		"artist": "Lata Mangeshkar, Manmohan Singh ",
+		"year": "1988"
+	},
+{	
+           "song": "Koi Ladki Hai",
+		"url": "https://bit.ly/3V6D3Mw",
+		"image": "https://bit.ly/3ElOeuO",
+          "movie": "Dil To Pagal Hai",
+		"artist": " Lata Mangeshkar, Udit Narayan, Uttam Singh, Anand Bakshi ",
+		"year": "1997"
+	},
+{	
+          "song": "Tere Mere Milan Ki Raina",
+		"url": "https://bit.ly/3rv09Pj",
+		"image": "https://bit.ly/3MdV07B",
+          "movie": "Abhimaan",
+		"artist": "S. D. Burman, Charanjit Ahuja, Kishore Kumar, Lata Mangeshkar, Majro",
+		"year": "1973"
+	},
+{	
+          "song": "Teri Bindiya Re",
+		"url": "https://bit.ly/3yjmKC0",
+		"image": "https://bit.ly/3SXJ6AT",
+          "movie": "Abhimaan",		 
+          "artist": "S. D. Burman, Charanjit Ahuja, Kishore Kumar, Lata Mangeshkar, Majro ",
+		"year": "1973"
+	},
+
 	
 	
 	
