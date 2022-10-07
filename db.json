@@ -914,7 +914,6 @@
 	
 	
 	
-	
 	{	"song": "Kyon",
 		"url": "https://bit.ly/3yj1vQM",
 		"image": "https://bit.ly/3fA5t0U",
@@ -946,7 +945,7 @@
 		"artist": "Lata Mangeshkar, Kishore Kumar, Mohammed Rafi",
 		"year": "1977"
 	},
-	{	
+{	
           "song": "Tere Liye",
 		"url": "https://bit.ly/3Viw0jZ",
 		"image": "https://bit.ly/3EoBwLE",
@@ -965,7 +964,7 @@
 {	
           "song": "Kabhi Kabhi Mere Dil Mein Duet",
 		"url": "https://bit.ly/3yiv594",
-		"image": "https://bit.ly/3RFixzz",
+		"image: "https://bit.ly/3RFixzz",
           "movie": "Kabhi Kabhie ",
 		"artist": " Mukesh, Lata Mangeshkar",
 		"year": "1976"
@@ -1010,8 +1009,7 @@
           "artist": "S. D. Burman, Charanjit Ahuja, Kishore Kumar, Lata Mangeshkar, Majro ",
 		"year": "1973"
 	},
-
-	{	
+{	
           "song": "Hum To Tere Aashiq Hain",
 		"url": "https://bit.ly/3RDd2kP",
 		"image": "https://bit.ly/3SWDGpU",
@@ -1027,9 +1025,102 @@
 		"artist": "Kishore Kumar, Mohammed Rafi, Mukesh, Lata Mangeshkar ",
 		"year": "1981"
 	},
-
-	
-	
+{	
+          "song": "Bhanware Ne Khilaya Phool",
+		"url": "https://bit.ly/3rAP4Mw",
+		"image": "https://bit.ly/3Mb7a1b",
+          "movie": "Prem Rog ",
+		"artist": "Lata Mangeshkar, Suresh Wadkar ",
+		"year": ""
+	},
+{	
+          "song": "Pyar Hua Iqrar Hua",
+          "url":"https://bit.ly/3ehAXJ6",
+		"image": "https://bit.ly/3CgemV7",
+          "movie": "Shree 420",
+		"artist": " Shankar-Jaikishan, Lata Mangeshkar, Manna Dey ",
+		"year": "1955"
+	},
+{	
+          "song": "Humko Humise Chura Lo",
+		"url": "https://bit.ly/3SNEyxA",
+		"image": "https://bit.ly/3fDG6eD",
+          "movie": "Mohabbatein",
+		"artist": "Lata Mangeshkar, Udit Narayan, Jatin-Lalit, Anand Bakshi ",
+		"year": "2000"
+	},
+{	
+          "song": "Main Duniya Bhula Doonga",
+		"url": "",
+		"image": "",
+          "movie": "Aashiqui",
+		"artist": " ft. Anuradha Paudwal, Kumar Sanu ",
+		"year": "1989"
+	},
+{	
+            "song": "Kaho Naa Pyar Hai - Happy",
+		"url": "",
+		"image": "",
+            "movie": "Kaho Naa Pyar Hai",
+		"artist": " Udit Narayan, Alka Yagnik ",
+		"year": "2000"
+	},
+{	
+            "song": "Taaron Ke Shehar",
+		"url": "",
+		"image": "",
+            "movie": "",
+		"artist": " Neha Kakkar, Jubin Nautiyal, Jaani ",
+		"year": "2020"
+	},
+{	
+            "song": "Baarish Mein Tum",
+		"url": "",
+		"image": "",
+            "movie": "Baarish Mein Tum",
+		"artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd, Harsh Kargeti ",
+		"year": "2022"
+	},
+{	
+            "song": "Pehli Pehli Baar Mohabbat Ki Hai",
+		"url": "",
+		"image": "",
+            "movie": "Sirf Tum",
+		"artist": " Kumar Sanu, Alka Yagnik ",
+		"year": "1991"
+	},
+{	
+            "song": "Dil Ne Yeh Kaha Hain Dil Se",
+		"url": "",
+		"image": "",
+            "movie": "Dhadkan ",
+		"artist": "Udit Narayan, Alka Yagnik ",
+		"year": "2000"
+	},
+{	
+            "song": "Dekha Hai Pehli Baar",
+		"url": "",
+		"image": "",
+            "movie": "Saajan  ",
+		"artist": "Alka Yagnik, S. P. Balasubrahmanyam ",
+		"year": "1991"
+	},
+{	
+            "song": "Chand Sifarish",
+		"url": "",
+		"image": "",
+            "movie": "Fanaa",
+		"artist": " Shaan, Kailash Kher, Jatin-Lalit, Prasoon Joshi ",
+		"year": "2006"
+	},
+{	
+            "song": "Baazigar O Baazigar",
+		"url": "",
+		"image": "",
+            "movie": "Baazigar ",
+		"artist": " Kumar Sanu, Alka Yagnik ",
+		"year": "1993"
+	}
 	
 	{
 		"song": "Дикая львица (Dikaya lʹvitsa)",
