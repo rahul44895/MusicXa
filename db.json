@@ -911,6 +911,46 @@
 		"artist": "Yo Yo Honey Singh",
 		"year": "2014"
 	},
+	
+	
+	
+	
+	{	"song": "Kyon",
+		"url": "https://bit.ly/3yj1vQM",
+		"image": "https://bit.ly/3fA5t0U",
+          "movie": "Barfie",
+		"artist": "Pritam,Papon,Sunidhi Chauhan",
+		"year": "2012"
+	},
+      {
+          "song": "Tu Jo Nahin",
+		"url": "https://bit.ly/3C9a4yR",
+		"image": "https://bit.ly/3CCFa36",
+          "movie": "Woh Lamhe",
+		"artist": "Glenn John",
+		"year": "2006"
+	},
+      {	
+          "song": "Lag Ja Gale Se Phir",
+		"url": "https://bit.ly/3M7IgiV",
+		"image": "https://bit.ly/3MbUDdL",
+          "movie": "Woh Kaun Thi",
+		"artist": " Madan Mohan, Lata Mangeshkar",
+		"year": "1964"
+	},
+      {	
+          "song": "Chal Kahin Door Nikal Jayen",
+		"url": "https://bit.ly/3UYnJkO",
+		"image": "https://bit.ly/3CdnZUq",
+          "movie": "Doosara Aadmi ",
+		"artist": "Lata Mangeshkar, Kishore Kumar, Mohammed Rafi",
+		"year": "1977"
+	},
+	
+	
+	
+	
+	
 	{
 		"song": "Дикая львица (Dikaya lʹvitsa)",
 		"url": "https://bit.ly/3vwewTy",
