@@ -32,14 +32,6 @@
 		"year": "2018"
 	},
 	{
-		"song": "Aap Ki Ankhon Mein Kuch",
-		"url": "https://bit.ly/3RGWs3o",
-		"image": "https://bit.ly/3T3VpMl",
-		"movie": "Ghar ",
-		"artist": "Kishore Kumar, Lata Mangeshkar ",
-		"year": "1978"
-	},
-	{
 		"song": "Aata Majhi Satakli",
 		"url": "https://bit.ly/3hTNS33",
 		"image": "https://bit.ly/2StRoXc",
@@ -94,46 +86,6 @@
 		"movie": "",
 		"artist": "Yo Yo Honey Singh",
 		"year": "2012"
-	},
-	{
-		"song": "Baarish Aayi Hai",
-		"url": "https://bit.ly/3yeTJrh",
-		"image": "https://bit.ly/3yj0UPk",
-		"movie": "",
-		"artist": "Javed-Mohsin, Stebin Ben, Shreya Ghoshal",
-		"year": "2022"
-	},
-	{
-		"song": "Baarish Mein Tum",
-		"url": "https://bit.ly/3McryyI",
-		"image": "https://bit.ly/3yjI8Hf",
-		"movie": "",
-		"artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd, Harsh Kargeti",
-		"year": "2022"
-	},
-	{
-		"song": "Baarish Mein Tum",
-		"url": "https://bit.ly/3rAkL8T",
-		"image": "https://bit.ly/3rCCXyt",
-		"movie": "Baarish Mein Tum",
-		"artist": "Neha Kakkar, Rohanpreet Singh, ShowKidd, Harsh Kargeti ",
-		"year": "2022"
-	},
-	{
-		"song": "Baazigar O Baazigar",
-		"url": "https://bit.ly/3V8t2yc",
-		"image": "https://bit.ly/3RKoLOH",
-		"movie": "Baazigar ",
-		"artist": " Kumar Sanu, Alka Yagnik ",
-		"year": "1993"
-	},
-	{
-		"song": "Bhanware Ne Khilaya Phool",
-		"url": "https://bit.ly/3EgxSU9",
-		"image": "https://bit.ly/3Mb3DA3",
-		"movie": "Prem Rog ",
-		"artist": "Lata Mangeshkar, Suresh Wadkar ",
-		"year": ""
 	},
 	{
 		"song": "Birthday Bash",
@@ -200,14 +152,6 @@
 		"year": "2020"
 	},
 	{
-		"song": "Chal Kahin Door Nikal Jayen",
-		"url": "https://bit.ly/3UYnJkO",
-		"image": "https://bit.ly/3CdnZUq",
-		"movie": "Doosara Aadmi ",
-		"artist": "Lata Mangeshkar, Kishore Kumar, Mohammed Rafi",
-		"year": "1977"
-	},
-	{
 		"song": "Chal Wahan Jaate Hain",
 		"url": "https://bit.ly/3r1xZLe",
 		"image": "https://bit.ly/3f5BQEw",
@@ -232,14 +176,6 @@
 		"year": "1999"
 	},
 	{
-		"song": "Chand Sifarish",
-		"url": "https://bit.ly/3egX16z",
-		"image": "https://bit.ly/3SL6OR9",
-		"movie": "Fanaa",
-		"artist": " Shaan, Kailash Kher, Jatin-Lalit, Prasoon Joshi ",
-		"year": "2006"
-	},
-	{
 		"song": "Chhor Denge",
 		"url": "https://bit.ly/3hrOdtN",
 		"movie": "",
@@ -262,30 +198,6 @@
 		"movie": "Dilwaale",
 		"artist": "Arijit Singh",
 		"year": "2015"
-	},
-	{
-		"song": "Dekha Hai Pehli Baar",
-		"url": "https://bit.ly/3V6HGWK",
-		"image": "https://bit.ly/3SJq4id",
-		"movie": "Saajan  ",
-		"artist": "Alka Yagnik, S. P. Balasubrahmanyam ",
-		"year": "1991"
-	},
-	{
-		"song": "Dhokha",
-		"url": "https://bit.ly/3EkTu1v",
-		"image": "https://bit.ly/3e7jxyO",
-		"movie": "",
-		"artist": "Arijit Singh, Manan Bhardwaj",
-		"year": "2022"
-	},
-	{
-		"song": "Dil Ne Yeh Kaha Hain Dil Se",
-		"url": "https://bit.ly/3fRwNI3",
-		"image": "https://bit.ly/3CBIKuy",
-		"movie": "Dhadkan ",
-		"artist": "Udit Narayan, Alka Yagnik ",
-		"year": "2000"
 	},
 	{
 		"song": "Doob Gaye",
@@ -368,14 +280,6 @@
 		"year": "2020"
 	},
 	{
-		"song": "Fitoor",
-		"url": "https://bit.ly/3SJyKFk",
-		"image": "https://bit.ly/3M9hFlr",
-		"movie": "Shamshera",
-		"artist": "Mithoon, Arijit Singh, Neeti Mohan, Karan Malhotra",
-		"year": "2022"
-	},
-	{
 		"song": "Gali Gali Me Phirta Hai",
 		"url": "https://bit.ly/3eCs6id",
 		"movie": "Kolar Gold Films (KGF)",
@@ -432,30 +336,6 @@
 		"year": "2020"
 	},
 	{
-		"song": "Hum To Tere Aashiq Hain",
-		"url": "https://bit.ly/3RDd2kP",
-		"image": "https://bit.ly/3SWDGpU",
-		"movie": "Farz",
-		"artist": " Lata Mangeshkar, Mukesh, Laxmikant - Pyarelal ",
-		"year": "1967"
-	},
-	{
-		"song": "Humko Humise Chura Lo",
-		"url": "",
-		"image": "https://bit.ly/3RGe0wO",
-		"movie": "Mohabbatein",
-		"artist": "Lata Mangeshkar, Udit Narayan, Jatin-Lalit, Anand Bakshi ",
-		"year": "2000"
-	},
-	{
-		"song": "Humko Tumse Ho Gaya Hai Pyar",
-		"url": "https://bit.ly/3RGArlx",
-		"image": "https://bit.ly/3SSceK8",
-		"movie": "Amar Akbar Anthony ",
-		"artist": "Kishore Kumar, Mohammed Rafi, Mukesh, Lata Mangeshkar ",
-		"year": "1981"
-	},
-	{
 		"song": "Humraah",
 		"url": "https://bit.ly/3op9gi4",
 		"movie": "Malang",
@@ -470,14 +350,6 @@
 		"movie": "",
 		"artist": "BTS",
 		"year": "2018"
-	},
-	{
-		"song": "Ijazzat Hai",
-		"url": "https://bit.ly/3REnGb5",
-		"image": "https://bit.ly/3T2mbVl",
-		"movie": "",
-		"artist": "Raj Barman",
-		"year": "2022"
 	},
 	{
 		"song": "Illegal Weapon 2.0",
@@ -520,28 +392,12 @@
 		"year": "2022"
 	},
 	{
-		"song": "Kabhi Kabhi Mere Dil Mein Duet",
-		"url": "https://bit.ly/3yiv594",
-		"image": "https://bit.ly/3RFixzz",
-		"movie": "Kabhi Kabhie ",
-		"artist": " Mukesh, Lata Mangeshkar",
-		"year": "1976"
-	},
-	{
 		"song": "Kabir's Theme (Instrumental)",
 		"url": "https://bit.ly/3uZCNRO",
 		"movie": "War",
 		"image": "https://bit.ly/3fwNm8j",
 		"artist": "",
 		"year": "2019"
-	},
-	{
-		"song": "Kaho Naa Pyar Hai - Happy",
-		"url": "https://bit.ly/3STKFzY",
-		"image": "https://bit.ly/3Er6IKs",
-		"movie": "Kaho Naa Pyar Hai",
-		"artist": " Udit Narayan, Alka Yagnik ",
-		"year": "2000"
 	},
 	{
 		"song": "Kesariya (Brahmastra)",
@@ -568,38 +424,6 @@
 		"year": "2009"
 	},
 	{
-		"song": "Koi Ladki Hai",
-		"url": "https://bit.ly/3V6D3Mw",
-		"image": "https://bit.ly/3ElOeuO",
-		"movie": "Dil To Pagal Hai",
-		"artist": " Lata Mangeshkar, Udit Narayan, Uttam Singh, Anand Bakshi ",
-		"year": "1997"
-	},
-	{
-		"song": "Kuch Baatein",
-		"url": "https://bit.ly/3REQOyW",
-		"image": "https://bit.ly/3EkZHKP",
-		"movie": "",
-		"artist": "Payal Dev, Jubin Nautiyal",
-		"year": "2022"
-	},
-	{
-		"song": "Kyon",
-		"url": "https://bit.ly/3yj1vQM",
-		"image": "https://bit.ly/3fA5t0U",
-		"movie": "Barfie",
-		"artist": "Pritam,Papon,Sunidhi Chauhan",
-		"year": "2012"
-	},
-	{
-		"song": "Lag Ja Gale Se Phir",
-		"url": "https://bit.ly/3M7IgiV",
-		"image": "https://bit.ly/3MbUDdL",
-		"movie": "Woh Kaun Thi",
-		"artist": " Madan Mohan, Lata Mangeshkar",
-		"year": "1964"
-	},
-	{
 		"song": "Let Me Love You",
 		"url": "https://bit.ly/3LJyYJX",
 		"movie": "",
@@ -616,7 +440,7 @@
 		"year": "2012"
 	},
 	{
-		"song": "Lonely.",
+		"song": "Lonely",
 		"url": "https://bit.ly/3RE9C1l",
 		"image": "https://bit.ly/3e5CqSv",
 		"movie": "The Shaukeens",
@@ -654,14 +478,6 @@
 		"image": "https://bit.ly/3fiKMmt",
 		"artist": "Emiway Bantai",
 		"year": "2021"
-	},
-	{
-		"song": "Main Duniya Bhula Doonga",
-		"url": "https://bit.ly/3CEOq6S",
-		"image": "https://bit.ly/3yo3qUk",
-		"movie": "Aashiqui",
-		"artist": " ft. Anuradha Paudwal, Kumar Sanu ",
-		"year": "1989"
 	},
 	{
 		"song": "Makhna",
@@ -736,14 +552,6 @@
 		"year": "2014"
 	},
 	{
-		"song": "Meethi Meethi",
-		"url": "https://bit.ly/3ViI2tF",
-		"image": "https://bit.ly/3RzcvAx",
-		"movie": "",
-		"artist": "Jubin Nautiyal, Payal Dev, Rashmi Virag",
-		"year": "2022"
-	},
-	{
 		"song": "Mehendi Wale Haath",
 		"url": "https://bit.ly/34vJgbu",
 		"image": "https://bit.ly/3vyao5R",
@@ -774,14 +582,6 @@
 		"movie": "Saajan",
 		"artist": "Kumar Sanu, S. P. Balasubrahmanyam, Alka Yagnik",
 		"year": "1991"
-	},
-	{
-		"song": "Mere Pyar Ki Umar Ho Itnee Sanam",
-		"url": "https://bit.ly/3CDvW73",
-		"image": "https://bit.ly/3El3B6L",
-		"movie": "Waaris",
-		"artist": "Lata Mangeshkar, Manmohan Singh ",
-		"year": "1988"
 	},
 	{
 		"song": "Mortals-Wariyo",
@@ -824,14 +624,6 @@
 		"year": "1972"
 	},
 	{
-		"song": "O Paalanhaare",
-		"url": "https://bit.ly/3CyHg46",
-		"image": "https://bit.ly/3V6QH1R",
-		"movie": "Lagaan",
-		"artist": "  A.R. Rahman, Lata Mangeshkar, Udit Narayan",
-		"year": "2001"
-	},
-	{
 		"song": "O Re Piya",
 		"url": "https://bit.ly/3RRaWPr",
 		"movie": "",
@@ -872,14 +664,6 @@
 		"year": "2014"
 	},
 	{
-		"song": "Pehli Pehli Baar Mohabbat Ki Hai",
-		"url": "https://bit.ly/3C7OPNS",
-		"image": "https://bit.ly/3fSta4Z",
-		"movie": "Sirf Tum",
-		"artist": " Kumar Sanu, Alka Yagnik ",
-		"year": "1991"
-	},
-	{
 		"song": "Phir Na Mile Kabhi",
 		"url": "https://bit.ly/33TXsej",
 		"movie": "Malang",
@@ -902,14 +686,6 @@
 		"movie": "Dilwaale",
 		"artist": "Kanika Kapoor, Benny Dayal",
 		"year": "2015"
-	},
-	{
-		"song": "Pyar Hua Iqrar Hua",
-		"url": "https://bit.ly/3fMx5jq",
-		"image": "https://bit.ly/3Mb7OLV",
-		"movie": "Shree 420",
-		"artist": " Shankar-Jaikishan, Lata Mangeshkar, Manna Dey ",
-		"year": "1955"
 	},
 	{
 		"song": "Race 2 Mashup",
@@ -1008,14 +784,6 @@
 		"year": "2017"
 	},
 	{
-		"song": "Taaron Ke Shehar",
-		"url": "https://bit.ly/3SLkwUm",
-		"image": "https://bit.ly/3V9YCeR",
-		"movie": "Taaron Ke Shehar ",
-		"artist": " Neha Kakkar, Jubin Nautiyal, Jaani ",
-		"year": "2020"
-	},
-	{
 		"song": "Tadap Tadap",
 		"url": "https://bit.ly/34uu7re",
 		"image": "https://bit.ly/3wHKCMp",
@@ -1038,22 +806,6 @@
 		"image": "https://bit.ly/3tHS48z",
 		"artist": "Darshan Raval",
 		"year": "2017"
-	},
-	{
-		"song": "Tere Liye",
-		"url": "https://bit.ly/3Viw0jZ",
-		"image": "https://bit.ly/3EoBwLE",
-		"movie": "Veer-Zaara ",
-		"artist": " Lata Mangeshkar, Roopkumar Rathod, Salim-Sulaiman, Javed Akhtar",
-		"year": "2004"
-	},
-	{
-		"song": "Teri Galliyon Se",
-		"url": "https://bit.ly/3fKY8vN",
-		"image": "https://bit.ly/3rwmtIa",
-		"movie": "",
-		"artist": "Jubin Nautiyal, Meet Bros",
-		"year": "2022"
 	},
 	{
 		"song": "The Nights (Avicii)",
@@ -1085,14 +837,6 @@
 		"movie": "Fast And Furious",
 		"image": "https://bit.ly/3fhkyk6",
 		"artist": "Teriyaki Boyz",
-		"year": "2006"
-	},
-	{
-		"song": "Tu Jo Nahin",
-		"url": "https://bit.ly/3C9a4yR",
-		"image": "https://bit.ly/3CCFa36",
-		"movie": "Woh Lamhe",
-		"artist": "Glenn John",
 		"year": "2006"
 	},
 	{
